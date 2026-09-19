@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Paras 👋
 
-<!--
-**paraskosambe-web/paraskosambe-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Sc. Computer Science Student | Aspiring Data Scientist | AI/ML | Python | SQL
 
-Here are some ideas to get you started:
+I'm interested in building practical applications using Data Science, Artificial Intelligence and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+- Python & Data Analysis
+- Machine Learning
+- AI & Agentic AI
+- SQL
+- Full-Stack Development
+
+## 🚀 Featured Projects
+
+### 🎨 Paras Arts
+Full-stack digital art portfolio and custom sketch ordering platform.
+
+React • Node.js • Express • MongoDB • Cloudinary
+
+[View Repository](https://github.com/paraskosambe-web/paras-arts.git)
+
+### 🤖 Paras Arts AI Data Agent
+AI-powered agent for analyzing approved Paras Arts business data using natural language.
+
+Python • FastAPI • MongoDB • Gemini
+
+[View Repository](https://github.com/paraskosambe-web/paras-arts-ai-agent.git)
+
+## 🛠️ Technologies
+
+Python • SQL • JavaScript • React • Node.js • Express • MongoDB • FastAPI • Git
+
+## 📚 Currently Learning
+
+Data Science • Machine Learning • NLP • AI Agents
