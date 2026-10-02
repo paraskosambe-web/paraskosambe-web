@@ -172,9 +172,9 @@ Practical Solutions
 
 ## 📫 Connect With Me
 
-📧 **Email:** Add your email here
+📧 **Email:** paraskosambe@gmail.com
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** www.linkedin.com/in/paras-kosambe
 
 🎨 **Instagram:** [@paras.arts.3313](https://www.instagram.com/paras.arts.3313)
 
