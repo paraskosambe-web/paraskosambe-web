@@ -1,40 +1,44 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=Paras%20Kosambe&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20Digital%20Art&descSize=18&descAlignY=60" width="100%" alt="Paras Kosambe"/>
-
+<!-- Animated hero (file: assets/hero.svg) -->
 <a href="https://github.com/paraskosambe-web">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B+I'm+Paras;Aspiring+Data+Scientist+%F0%9F%93%8A;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Python+%26+Full-Stack+Developer+%F0%9F%92%BB;Digital+%26+Sketch+Artist+%F0%9F%8E%A8;Turning+data+into+useful+solutions+%F0%9F%9A%80" alt="Typing animation"/>
+  <img src="./assets/hero.svg" width="100%" alt="Paras Kosambe - Data Science, AI / ML, Full-Stack Development, Digital Art"/>
 </a>
 
 <br/>
 
-<img src="https://hits.sh/github.com/paraskosambe-web.svg?style=for-the-badge&label=Profile%20Views&color=00d4ff&labelColor=0f172a" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/paraskosambe-web?style=for-the-badge&logo=github&label=Followers&color=7c3aed&labelColor=0f172a" alt="Followers"/>
-<img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-0ea5e9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0f172a" alt="B.Sc. Computer Science"/>
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-22c55e?style=for-the-badge&labelColor=0f172a" alt="Open to opportunities"/>
+<img src="https://hits.sh/github.com/paraskosambe-web.svg?style=for-the-badge&label=Profile%20Views&color=22d3ee&labelColor=0f172a" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/paraskosambe-web?style=for-the-badge&logo=github&label=Followers&color=6366f1&labelColor=0f172a" alt="Followers"/>
+<img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-3b82f6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0f172a" alt="B.Sc. Computer Science"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-10b981?style=for-the-badge&labelColor=0f172a" alt="Open to opportunities"/>
 
 <br/><br/>
 
 <!-- ═══════════════════════ NAVIGATION ═══════════════════════ -->
 <a href="#about"><img src="https://img.shields.io/badge/About-0ea5e9?style=for-the-badge" alt="About"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-6366f1?style=for-the-badge" alt="Projects"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-a855f7?style=for-the-badge" alt="Tech stack"/></a>
-<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-ec4899?style=for-the-badge" alt="Analytics"/></a>
-<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-f97316?style=for-the-badge" alt="Roadmap"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-22c55e?style=for-the-badge" alt="Contact"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-2563eb?style=for-the-badge" alt="Projects"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-4f46e5?style=for-the-badge" alt="Tech stack"/></a>
+<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-7c3aed?style=for-the-badge" alt="Analytics"/></a>
+<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-9333ea?style=for-the-badge" alt="Roadmap"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-0d9488?style=for-the-badge" alt="Contact"/></a>
 
 <br/><br/>
 
 <!-- ═══════════════════════ SOCIAL BUTTONS ═══════════════════════ -->
-<a href="mailto:paraskosambe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/paras-kosambe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/paras.arts.3313"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/paraskosambe-web?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="mailto:paraskosambe@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/paras-kosambe"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/paras.arts.3313"><img src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://github.com/paraskosambe-web?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+
+<br/><br/>
+
+<!-- Animated skills marquee (file: assets/skills-marquee.svg) -->
+<img src="./assets/skills-marquee.svg" width="100%" alt="Skills: Python, SQL, JavaScript, Pandas, NumPy, Scikit-Learn, React, Node.js, Express, FastAPI, MongoDB, Supabase and more"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <a id="about"></a>
@@ -92,11 +96,11 @@ class Paras:
 <div align="center">
 
 <img src="https://img.shields.io/badge/%F0%9F%94%AD%20Now%20Working%20On-AI%20Agents%20%26%20Predictive%20Modeling-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Working on"/>
-<img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Now%20Learning-Statistics%20%7C%20NLP%20%7C%20GenAI%20%7C%20Cloud-a855f7?style=for-the-badge&labelColor=0f172a" alt="Learning"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Now%20Learning-Statistics%20%7C%20NLP%20%7C%20GenAI%20%7C%20Cloud-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Learning"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ FOCUS ═══════════════════════ -->
 ## 🧠 What I'm Focused On
@@ -116,7 +120,7 @@ class Paras:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 <a id="projects"></a>
@@ -153,7 +157,7 @@ A full-stack platform to showcase artwork, manage custom sketch orders, track or
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" alt="MongoDB"/>&nbsp;
 <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="28" alt="Cloudinary"/>
 
-<a href="https://github.com/paraskosambe-web/paras-arts"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=black" alt="View repository"/></a>
+<a href="https://github.com/paraskosambe-web/paras-arts"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a" alt="View repository"/></a>
 <img src="https://img.shields.io/github/last-commit/paraskosambe-web/paras-arts?style=for-the-badge&label=Last%20Commit&color=0ea5e9&labelColor=0f172a" alt="Last commit"/>
 
 <br/><br/>
@@ -170,11 +174,11 @@ flowchart LR
     T --> D[("🗄️ MongoDB<br/>approved data")]
     D --> I["📊 Business<br/>insight"]
     style Q fill:#0ea5e9,stroke:none,color:#fff
-    style A fill:#009688,stroke:none,color:#fff
-    style G fill:#8E75B2,stroke:none,color:#fff
-    style T fill:#f97316,stroke:none,color:#fff
-    style D fill:#47A248,stroke:none,color:#fff
-    style I fill:#ec4899,stroke:none,color:#fff
+    style A fill:#0d9488,stroke:none,color:#fff
+    style G fill:#7c3aed,stroke:none,color:#fff
+    style T fill:#4f46e5,stroke:none,color:#fff
+    style D fill:#15803d,stroke:none,color:#fff
+    style I fill:#2563eb,stroke:none,color:#fff
 ```
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python"/>&nbsp;
@@ -182,8 +186,8 @@ flowchart LR
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" alt="MongoDB"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="28" alt="Gemini"/>
 
-<a href="https://github.com/paraskosambe-web/paras-arts-ai-agent"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/></a>
-<img src="https://img.shields.io/github/last-commit/paraskosambe-web/paras-arts-ai-agent?style=for-the-badge&label=Last%20Commit&color=a855f7&labelColor=0f172a" alt="Last commit"/>
+<a href="https://github.com/paraskosambe-web/paras-arts-ai-agent"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/></a>
+<img src="https://img.shields.io/github/last-commit/paraskosambe-web/paras-arts-ai-agent?style=for-the-badge&label=Last%20Commit&color=8b5cf6&labelColor=0f172a" alt="Last commit"/>
 
 <br/><br/>
 
@@ -195,9 +199,9 @@ Customer churn analysis for **PowerCo**, built as part of the **BCG X Data Scien
 flowchart LR
     A["🔍 Exploratory<br/>Data Analysis"] --> B["⚙️ Feature<br/>Engineering"] --> C["🤖 Predictive<br/>Modeling"] --> D["📈 Churn<br/>Insights"]
     style A fill:#0ea5e9,stroke:none,color:#fff
-    style B fill:#6366f1,stroke:none,color:#fff
-    style C fill:#a855f7,stroke:none,color:#fff
-    style D fill:#f97316,stroke:none,color:#fff
+    style B fill:#2563eb,stroke:none,color:#fff
+    style C fill:#4f46e5,stroke:none,color:#fff
+    style D fill:#7c3aed,stroke:none,color:#fff
 ```
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python"/>&nbsp;
@@ -207,10 +211,10 @@ flowchart LR
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="28" alt="Matplotlib"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="28" alt="Seaborn"/>
 
-<a href="https://github.com/paraskosambe-web/bcg-x-data-science-job-simulation"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-f97316?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/></a>
-<img src="https://img.shields.io/github/last-commit/paraskosambe-web/bcg-x-data-science-job-simulation?style=for-the-badge&label=Last%20Commit&color=f97316&labelColor=0f172a" alt="Last commit"/>
+<a href="https://github.com/paraskosambe-web/bcg-x-data-science-job-simulation"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/></a>
+<img src="https://img.shields.io/github/last-commit/paraskosambe-web/bcg-x-data-science-job-simulation?style=for-the-badge&label=Last%20Commit&color=3b82f6&labelColor=0f172a" alt="Last commit"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 <a id="stack"></a>
@@ -268,7 +272,7 @@ flowchart LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ ANALYTICS ═══════════════════════ -->
 <a id="analytics"></a>
@@ -288,7 +292,7 @@ flowchart LR
 
 **🗓️ Contribution Calendar**
 
-<img src="https://ghchart.rshah.org/00d4ff/paraskosambe-web" width="95%" alt="Contribution calendar"/>
+<img src="https://ghchart.rshah.org/22d3ee/paraskosambe-web" width="95%" alt="Contribution calendar"/>
 
 <br/><br/>
 
@@ -302,7 +306,7 @@ flowchart LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ ROADMAP ═══════════════════════ -->
 <a id="roadmap"></a>
@@ -311,7 +315,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=Statistics+%E2%86%92+Data+Analysis+%E2%86%92+Predictive+Modeling;Machine+Learning+%E2%86%92+NLP+%E2%86%92+Generative+AI;AI+Agents+%E2%86%92+APIs+%E2%86%92+Cloud+Deployment" alt="Learning animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=700&height=40&lines=Statistics+%E2%86%92+Data+Analysis+%E2%86%92+Predictive+Modeling;Machine+Learning+%E2%86%92+NLP+%E2%86%92+Generative+AI;AI+Agents+%E2%86%92+APIs+%E2%86%92+Cloud+Deployment" alt="Learning animation"/>
 
 </div>
 
@@ -321,9 +325,9 @@ flowchart LR
     B --> C["💻 Development<br/>Full-Stack · APIs · Cloud Deployment"]
     C --> D["🚀 Practical Solutions"]
     style A fill:#0ea5e9,stroke:#0369a1,color:#fff
-    style B fill:#a855f7,stroke:#7e22ce,color:#fff
-    style C fill:#22c55e,stroke:#15803d,color:#fff
-    style D fill:#f97316,stroke:#c2410c,color:#fff
+    style B fill:#4f46e5,stroke:#3730a3,color:#fff
+    style C fill:#7c3aed,stroke:#5b21b6,color:#fff
+    style D fill:#0d9488,stroke:#0f766e,color:#fff
 ```
 
 <details>
@@ -343,7 +347,7 @@ Building knowledge through **AI, Machine Learning, Data Science, Cloud, and Agen
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ BEYOND CODE ═══════════════════════ -->
 ## 🎨 Beyond Code
@@ -352,8 +356,8 @@ Alongside technology, I'm a **digital and sketch artist** working in **graphite,
 
 <div align="center">
 
-<a href="https://www.instagram.com/paras.arts.3313"><img src="https://img.shields.io/badge/See%20My%20Artwork-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram artwork"/></a>
-<a href="https://github.com/paraskosambe-web/paras-arts"><img src="https://img.shields.io/badge/Paras%20Arts-Platform-00d4ff?style=for-the-badge&logo=github&logoColor=black" alt="Paras Arts"/></a>
+<a href="https://www.instagram.com/paras.arts.3313"><img src="https://img.shields.io/badge/See%20My%20Artwork-Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram artwork"/></a>
+<a href="https://github.com/paraskosambe-web/paras-arts"><img src="https://img.shields.io/badge/Paras%20Arts-Platform-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a" alt="Paras Arts"/></a>
 
 </div>
 
@@ -365,9 +369,9 @@ Alongside technology, I'm a **digital and sketch artist** working in **graphite,
 flowchart LR
     D["Data"] --> U["Understanding"] --> I["Intelligence"] --> P["Practical Solutions"]
     style D fill:#0ea5e9,color:#fff,stroke:none
-    style U fill:#6366f1,color:#fff,stroke:none
-    style I fill:#a855f7,color:#fff,stroke:none
-    style P fill:#f97316,color:#fff,stroke:none
+    style U fill:#2563eb,color:#fff,stroke:none
+    style I fill:#4f46e5,color:#fff,stroke:none
+    style P fill:#7c3aed,color:#fff,stroke:none
 ```
 
 <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
@@ -386,12 +390,12 @@ flowchart LR
 
 <br/>
 
-<a href="mailto:paraskosambe@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20Hire%20Me%20%2F%20Collaborate-00d4ff?style=for-the-badge&labelColor=0f172a" alt="Hire me"/></a>
+<a href="mailto:paraskosambe@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20Hire%20Me%20%2F%20Collaborate-22d3ee?style=for-the-badge&labelColor=0f172a" alt="Hire me"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=I'm+always+learning%2C+experimenting%2C+and+building.;Let's+turn+ideas+into+something+useful.+%F0%9F%9A%80" alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=I'm+always+learning%2C+experimenting%2C+and+building.;Let's+turn+ideas+into+something+useful.+%F0%9F%9A%80" alt="Footer typing"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a8a,100:0ea5e9&height=120&section=footer" width="100%" alt="footer wave"/>
