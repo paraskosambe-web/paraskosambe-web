@@ -3,7 +3,7 @@
 
 <!-- Animated hero (file: assets/hero.svg) -->
 <a href="https://github.com/paraskosambe-web">
-  <img src="./assets/hero.svg" width="100%" alt="Paras Kosambe - Data Science, AI / ML, Full-Stack Development, Digital Art"/>
+  <img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/hero.svg?v=2" width="100%" alt="Paras Kosambe - Data Science, AI / ML, Full-Stack Development, Digital Art"/>
 </a>
 
 <br/>
