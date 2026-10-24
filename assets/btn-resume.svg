@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 428 62" width="428" height="62" role="img" aria-label="View Resume">
+  <title>View Resume</title>
+  <defs>
+    <linearGradient id="btnBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#061020"/>
+      <stop offset="100%" stop-color="#111a2e"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="0" y="0" width="428" height="62" rx="14"/></clipPath>
+    <style>
+      .shine { animation: sweep 4.2s linear infinite; }
+      .dot { animation: pulse 2.4s ease-in-out infinite; }
+      .arrow { animation: nudge 1.8s ease-in-out infinite; }
+      @keyframes sweep { 0% { transform: translateX(-428px); } 55%,100% { transform: translateX(428px); } }
+      @keyframes pulse { 0%,100% { opacity: .35; r: 16; } 50% { opacity: .9; r: 19; } }
+      @keyframes nudge { 0%,100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="428" height="62" fill="url(#btnBg)"/>
+    <rect width="428" height="62" fill="url(#edge)" fill-opacity="0.10"/>
+    <rect class="shine" x="-428" y="0" width="428" height="62" fill="url(#shine)"/>
+
+    <!-- icon -->
+    <g transform="translate(22,14)">
+      <rect x="-8" y="-8" width="34" height="34" rx="10" fill="#2dd4bf" fill-opacity="0.10" stroke="#2dd4bf" stroke-opacity="0.35"/>
+      <g transform="translate(0.5,0.5)"><g stroke="#2dd4bf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 0h8l6 6v12H3z"/><path d="M11 0v6h6"/><path d="M6 11h9M6 14.5h6"/></g></g>
+    </g>
+
+    <!-- label -->
+    <text x="64" y="28" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" letter-spacing="0.9" fill="#eaf4ff">View Resume</text>
+    <text x="64" y="46" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="0.7" fill="#7f93ab">paras-kosambe.vercel.app/resume</text>
+
+    <!-- arrow (outer group holds the position, inner group is the animated one) -->
+    <g transform="translate(394,24)">
+      <g class="arrow" stroke="#2dd4bf" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.95">
+        <path d="M0 7h13"/><path d="M8 2l5 5-5 5"/>
+      </g>
+    </g>
+
+    <rect x="0.9" y="0.9" width="426.2" height="60.2" rx="14" fill="none" stroke="url(#edge)" stroke-opacity="0.55" stroke-width="1.5"/>
+  </g>
+</svg>

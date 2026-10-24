@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468 62" width="468" height="62" role="img" aria-label="All Projects">
+  <title>All Projects</title>
+  <defs>
+    <linearGradient id="btnBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#061020"/>
+      <stop offset="100%" stop-color="#111a2e"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="0" y="0" width="468" height="62" rx="14"/></clipPath>
+    <style>
+      .shine { animation: sweep 4.2s linear infinite; }
+      .dot { animation: pulse 2.4s ease-in-out infinite; }
+      .arrow { animation: nudge 1.8s ease-in-out infinite; }
+      @keyframes sweep { 0% { transform: translateX(-468px); } 55%,100% { transform: translateX(468px); } }
+      @keyframes pulse { 0%,100% { opacity: .35; r: 16; } 50% { opacity: .9; r: 19; } }
+      @keyframes nudge { 0%,100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="468" height="62" fill="url(#btnBg)"/>
+    <rect width="468" height="62" fill="url(#edge)" fill-opacity="0.10"/>
+    <rect class="shine" x="-468" y="0" width="468" height="62" fill="url(#shine)"/>
+
+    <!-- icon -->
+    <g transform="translate(22,14)">
+      <rect x="-8" y="-8" width="34" height="34" rx="10" fill="#a78bfa" fill-opacity="0.10" stroke="#a78bfa" stroke-opacity="0.35"/>
+      <g transform="translate(0.5,0.5)"><g stroke="#a78bfa" stroke-width="2" stroke-linecap="round" fill="none"><path d="M9 0l2.4 6.6L18 9l-6.6 2.4L9 18l-2.4-6.6L0 9l6.6-2.4z" fill="#a78bfa" fill-opacity="0.18"/></g></g>
+    </g>
+
+    <!-- label -->
+    <text x="64" y="28" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" letter-spacing="0.9" fill="#eaf4ff">All Projects</text>
+    <text x="64" y="46" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="0.7" fill="#7f93ab">insightforge · paras arts · ai agent</text>
+
+    <!-- arrow (outer group holds the position, inner group is the animated one) -->
+    <g transform="translate(434,24)">
+      <g class="arrow" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.95">
+        <path d="M0 7h13"/><path d="M8 2l5 5-5 5"/>
+      </g>
+    </g>
+
+    <rect x="0.9" y="0.9" width="466.2" height="60.2" rx="14" fill="none" stroke="url(#edge)" stroke-opacity="0.55" stroke-width="1.5"/>
+  </g>
+</svg>

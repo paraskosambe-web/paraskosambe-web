@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Visit my live portfolio: paras-kosambe.vercel.app">
+  <title>Visit my live portfolio: paras-kosambe.vercel.app</title>
+  <defs>
+    <linearGradient id="ctaBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#04121c"/>
+      <stop offset="48%" stop-color="#0a1a2e"/>
+      <stop offset="100%" stop-color="#160f30"/>
+    </linearGradient>
+    <linearGradient id="ctaEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.9"/>
+      <stop offset="55%" stop-color="#6366f1" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="ctaText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a5f3fc"/>
+      <stop offset="55%" stop-color="#c7d2fe"/>
+      <stop offset="100%" stop-color="#fbcfe8"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="btnFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e7490"/>
+      <stop offset="100%" stop-color="#4338ca"/>
+    </linearGradient>
+    <pattern id="ctaGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.07"/>
+    </pattern>
+    <clipPath id="ctaClip"><rect x="0" y="0" width="1200" height="170" rx="20"/></clipPath>
+    <filter id="ctaSoft" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#ctaClip)">
+    <rect width="1200" height="170" fill="url(#ctaBg)"/>
+    <rect width="1200" height="170" fill="url(#ctaGrid)"/>
+    <circle cx="1090" cy="10" r="100" fill="#7c3aed" opacity="0.22" filter="url(#ctaSoft)"/>
+    <circle cx="110" cy="170" r="100" fill="#0891b2" opacity="0.20" filter="url(#ctaSoft)"/>
+
+    <rect x="-420" y="0" width="420" height="170" fill="url(#shimmer)">
+      <animate attributeName="x" values="-420;1200" dur="6.5s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- globe -->
+    <g transform="translate(40,0)">
+      <circle cx="46" cy="85" r="34" fill="#0b1a2b" stroke="#22d3ee" stroke-opacity="0.55"/>
+      <circle cx="46" cy="85" r="34" fill="none" stroke="#22d3ee" stroke-opacity="0.25">
+        <animate attributeName="r" values="34;45;34" dur="3.6s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.3;0;0.3" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+      <g fill="none" stroke="#67e8f9" stroke-width="1.8" stroke-opacity="0.9">
+        <circle cx="46" cy="85" r="18"/>
+        <ellipse cx="46" cy="85" rx="18" ry="7"/>
+        <ellipse cx="46" cy="85" rx="7" ry="18"/>
+        <path d="M28 85h36M46 67v36"/>
+      </g>
+      <circle cx="60" cy="71" r="3.8" fill="#34d399">
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- copy with big, mobile-legible type -->
+    <text x="140" y="62" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="17" font-weight="700"
+          letter-spacing="4" fill="#5eead4">LIVE PORTFOLIO</text>
+    <text x="138" y="118" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="42" font-weight="800"
+          letter-spacing="0.2" fill="url(#ctaText)" textLength="640" lengthAdjust="spacingAndGlyphs">paras-kosambe.vercel.app</text>
+    <text x="140" y="146" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15"
+          letter-spacing="0.4" fill="#93a9c2">projects · skills · certifications · resume · art</text>
+
+    <!-- button -->
+    <g>
+      <rect x="880" y="56" width="278" height="58" rx="29" fill="url(#btnFill)" fill-opacity="0.30" stroke="#22d3ee" stroke-opacity="0.7"/>
+      <rect x="880" y="56" width="278" height="58" rx="29" fill="none" stroke="#67e8f9" stroke-opacity="0.4">
+        <animate attributeName="stroke-opacity" values="0.15;0.8;0.15" dur="2.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="990" y="92" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="19"
+            font-weight="700" letter-spacing="2" fill="#eaf8ff">VISIT SITE</text>
+      <g transform="translate(1090,77)">
+        <g stroke="#67e8f9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+          <path d="M0 8h22"/><path d="M14 0l8 8-8 8"/>
+        </g>
+        <animateTransform attributeName="transform" type="translate" values="1090 77;1097 77;1090 77" dur="1.9s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <rect x="0" y="0" width="1200" height="170" rx="20" fill="none" stroke="url(#ctaEdge)" stroke-width="1.8"/>
+  </g>
+</svg>

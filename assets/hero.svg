@@ -1,0 +1,283 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Paras Kosambe — Data Science, AI / ML, Full-Stack Development, Digital Art">
+  <title>Paras Kosambe — Data Science, AI / ML, Full-Stack Development, Digital Art</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#03060f"/>
+      <stop offset="45%" stop-color="#070d1b"/>
+      <stop offset="100%" stop-color="#0b1226"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a5f3fc"/>
+      <stop offset="30%" stop-color="#7dd3fc"/>
+      <stop offset="62%" stop-color="#c4b5fd"/>
+      <stop offset="100%" stop-color="#fbcfe8"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="panelEdge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <linearGradient id="barGrad" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <linearGradient id="pillGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0b3b4d"/>
+      <stop offset="100%" stop-color="#121a3a"/>
+    </linearGradient>
+
+    <linearGradient id="plateGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#02050e" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#02050e" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.06"/>
+    </pattern>
+
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+
+    <!-- dark halo + cyan glow behind the display name, so it never blends into the bg -->
+    <filter id="nameFx" x="-30%" y="-60%" width="170%" height="240%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="bDark"/>
+      <feOffset in="bDark" dx="0" dy="4" result="off"/>
+      <feFlood flood-color="#01040d" flood-opacity="0.95" result="dark"/>
+      <feComposite in="dark" in2="off" operator="in" result="shadow"/>
+      <feGaussianBlur in="SourceAlpha" stdDeviation="11" result="bGlow"/>
+      <feFlood flood-color="#22d3ee" flood-opacity="0.5" result="cy"/>
+      <feComposite in="cy" in2="bGlow" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="shadow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="360" rx="22"/>
+    </clipPath>
+
+    <!-- typewriter reveal windows: a white bar grows left→right to reveal glyphs,
+         holds, then wipes out. Geometry-only so it behaves identically everywhere. -->
+    <mask id="tw1" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="360">
+      <rect x="58" y="248" width="0" height="30" fill="#ffffff">
+        <animate attributeName="width" values="0;352;352;0;0" keyTimes="0;0.19;0.30;0.345;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+    <mask id="tw2" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="360">
+      <rect x="58" y="248" width="0" height="30" fill="#ffffff">
+        <animate attributeName="width" values="0;352;352;0;0" keyTimes="0;0.19;0.30;0.345;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+    <mask id="tw3" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="360">
+      <rect x="58" y="248" width="352" height="30" fill="#ffffff">
+        <animate attributeName="width" values="0;352;352;0;0" keyTimes="0;0.19;0.30;0.345;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+
+    <!-- ambient glows: kept away from the name so contrast stays high -->
+    <circle cx="60" cy="-40" r="170" fill="#0891b2" opacity="0.16" filter="url(#soft)">
+      <animate attributeName="cx" values="60;130;60" dur="17s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1060" cy="340" r="205" fill="#6d28d9" opacity="0.15" filter="url(#soft)">
+      <animate attributeName="cx" values="1060;975;1060" dur="19s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- dark plate behind the headline block -->
+    <ellipse cx="350" cy="150" rx="340" ry="110" fill="url(#plateGrad)" opacity="0.85" filter="url(#soft)"/>
+
+    <!-- top + bottom hairlines -->
+    <rect x="0" y="0" width="1200" height="2" fill="url(#rule)" opacity="0.9"/>
+    <rect x="0" y="358" width="1200" height="2" fill="url(#rule)" opacity="0.5"/>
+
+    <!-- floating particles -->
+    <g fill="#67e8f9">
+      <circle cx="300" cy="322" r="2.2" opacity="0.65">
+        <animate attributeName="cy" values="322;294;322" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.15;0.85;0.15" dur="7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="472" cy="96" r="1.9" opacity="0.45">
+        <animate attributeName="cy" values="96;68;96" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.1;0.7;0.1" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="118" cy="252" r="2" fill="#a78bfa" opacity="0.45">
+        <animate attributeName="cy" values="252;224;252" dur="8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- ░░ LEFT: identity ░░ -->
+    <g>
+      <!-- status pill (wide enough for the widest fallback font) -->
+      <rect x="60" y="46" width="372" height="38" rx="19" fill="url(#pillGrad)" stroke="#22d3ee" stroke-opacity="0.45"/>
+      <circle cx="86" cy="65" r="5" fill="#34d399">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="86" cy="65" r="9" fill="#34d399" opacity="0.25">
+        <animate attributeName="r" values="6;12;6" dur="2.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.35;0;0.35" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="104" y="70" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="700"
+            letter-spacing="2" fill="#bdf3fb" textLength="306" lengthAdjust="spacingAndGlyphs">OPEN TO INTERNSHIPS &amp; COLLABS</text>
+
+      <!-- name -->
+      <text x="58" y="172" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="63" font-weight="800"
+            letter-spacing="1.5" fill="url(#nameGrad)" filter="url(#nameFx)"
+            textLength="566" lengthAdjust="spacingAndGlyphs">PARAS KOSAMBE</text>
+
+      <!-- accent rule -->
+      <rect x="60" y="192" width="470" height="3" rx="1.5" fill="url(#rule)"/>
+
+      <!-- role line -->
+      <text x="60" y="224" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600"
+            letter-spacing="3" fill="#a5c8f5" textLength="556" lengthAdjust="spacingAndGlyphs">DATA SCIENCE · AI / ML · FULL-STACK · DIGITAL ART</text>
+
+      <!-- terminal: real typewriter. A white bar inside a mask grows left→right, revealing
+           the glyphs one by one; the line then fades out and the next one types. -->
+      <g>
+        <g mask="url(#tw1)">
+          <text x="60" y="271" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#22d3ee">&gt;</text>
+          <text x="69" y="271" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#dae6ff">import pandas as pd  # data first</text>
+        </g>
+        <rect x="58" y="256" width="3" height="20" fill="#22d3ee" opacity="0">
+          <animate attributeName="x" values="58;372;372" keyTimes="0;0.19;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0;0.9;0" keyTimes="0;0.25;0.5;0.75;1" dur="0.9s" begin="0s" repeatCount="indefinite"/>
+        </rect>
+        <g mask="url(#tw2)">
+          <text x="60" y="271" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#22d3ee">&gt;</text>
+          <text x="69" y="271" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#dae6ff">model.fit(X, y)  # then predict</text>
+        </g>
+        <rect x="58" y="256" width="3" height="20" fill="#22d3ee" opacity="0">
+          <animate attributeName="x" values="58;372;372" keyTimes="0;0.19;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0;0.9;0" keyTimes="0;0.25;0.5;0.75;1" dur="0.9s" begin="4s" repeatCount="indefinite"/>
+        </rect>
+        <g mask="url(#tw3)">
+          <text x="60" y="271" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#22d3ee">&gt;</text>
+          <text x="69" y="271" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#dae6ff">agent.run(prompt)  # then ship it</text>
+        </g>
+        <rect x="58" y="256" width="3" height="20" fill="#22d3ee" opacity="0">
+          <animate attributeName="x" values="58;372;372" keyTimes="0;0.19;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0;0.9;0" keyTimes="0;0.25;0.5;0.75;1" dur="0.9s" begin="8s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <!-- micro chips -->
+      <g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">
+        <rect x="60" y="304" width="146" height="30" rx="15" fill="#071120" stroke="#0ea5e9" stroke-opacity="0.5"/>
+        <text x="133" y="323" text-anchor="middle" fill="#7dd3fc">DATA SCIENCE</text>
+        <rect x="216" y="304" width="96" height="30" rx="15" fill="#071120" stroke="#6366f1" stroke-opacity="0.5"/>
+        <text x="264" y="323" text-anchor="middle" fill="#a5b4fc">AI / ML</text>
+        <rect x="322" y="304" width="136" height="30" rx="15" fill="#071120" stroke="#8b5cf6" stroke-opacity="0.5"/>
+        <text x="390" y="323" text-anchor="middle" fill="#c4b5fd">FULL-STACK</text>
+      </g>
+    </g>
+
+    <!-- ░░ RIGHT: glass panel with a neural net + sparkline ░░ -->
+    <g>
+      <rect x="672" y="46" width="468" height="266" rx="20" fill="#ffffff" fill-opacity="0.035" stroke="url(#panelEdge)" stroke-width="1.5"/>
+
+      <g font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing="1.6">
+        <circle cx="696" cy="70" r="4.5" fill="#f87171" opacity="0.85"/>
+        <circle cx="714" cy="70" r="4.5" fill="#fbbf24" opacity="0.85"/>
+        <circle cx="732" cy="70" r="4.5" fill="#34d399" opacity="0.85"/>
+        <text x="758" y="74" fill="#7c8ba1">pipeline.model.agent</text>
+        <text x="1112" y="74" text-anchor="end" fill="#22d3ee" opacity="0.9">● live</text>
+      </g>
+      <line x1="672" y1="92" x2="1140" y2="92" stroke="#38bdf8" stroke-opacity="0.16"/>
+
+      <!-- neural net -->
+      <g stroke="#38bdf8" stroke-opacity="0.16" stroke-width="1.2">
+        <path fill="none" d="M716 128 L796 116 M716 128 L796 160 M716 128 L796 204"/>
+        <path fill="none" d="M716 172 L796 116 M716 172 L796 160 M716 172 L796 204"/>
+        <path fill="none" d="M716 216 L796 116 M716 216 L796 160 M716 216 L796 204"/>
+        <path fill="none" d="M796 116 L876 138 M796 116 L876 182"/>
+        <path fill="none" d="M796 160 L876 138 M796 160 L876 182"/>
+        <path fill="none" d="M796 204 L876 138 M796 204 L876 182"/>
+      </g>
+      <g stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="14 190" stroke-opacity="0.9">
+        <path fill="none" d="M716 128 L796 160 L876 138">
+          <animate attributeName="stroke-dashoffset" values="204;0" dur="2.6s" repeatCount="indefinite"/>
+        </path>
+        <path fill="none" d="M716 216 L796 160 L876 182">
+          <animate attributeName="stroke-dashoffset" values="204;0" dur="3.4s" repeatCount="indefinite"/>
+        </path>
+        <path fill="none" d="M716 172 L796 204 L876 138">
+          <animate attributeName="stroke-dashoffset" values="204;0" dur="4.1s" repeatCount="indefinite"/>
+        </path>
+      </g>
+      <g fill="#0b1224" stroke="#22d3ee" stroke-width="1.6">
+        <circle cx="716" cy="128" r="7"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></circle>
+        <circle cx="716" cy="172" r="7"><animate attributeName="stroke-opacity" values="1;0.4;1" dur="3.4s" repeatCount="indefinite"/></circle>
+        <circle cx="716" cy="216" r="7"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></circle>
+        <circle cx="796" cy="116" r="7" stroke="#818cf8"/>
+        <circle cx="796" cy="160" r="7" stroke="#818cf8"/>
+        <circle cx="796" cy="204" r="7" stroke="#818cf8"/>
+      </g>
+      <circle cx="876" cy="138" r="9" fill="#22d3ee" opacity="0.18">
+        <animate attributeName="r" values="8;18;8" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.28;0;0.28" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="876" cy="138" r="8" fill="#22d3ee"/>
+      <circle cx="876" cy="182" r="8" fill="#a78bfa"/>
+
+      <!-- bars + trend -->
+      <g>
+        <line x1="930" y1="248" x2="1118" y2="248" stroke="#38bdf8" stroke-opacity="0.25"/>
+        <rect x="936" y="200" width="22" height="48" rx="5" fill="url(#barGrad)">
+          <animate attributeName="height" values="48;70;48" dur="5s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="200;178;200" dur="5s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="970" y="176" width="22" height="72" rx="5" fill="url(#barGrad)">
+          <animate attributeName="height" values="72;94;72" dur="5.6s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="176;154;176" dur="5.6s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="1004" y="152" width="22" height="96" rx="5" fill="url(#barGrad)">
+          <animate attributeName="height" values="96;118;96" dur="6.2s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="152;130;152" dur="6.2s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="1038" y="184" width="22" height="64" rx="5" fill="url(#barGrad)">
+          <animate attributeName="height" values="64;86;64" dur="5.2s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="184;162;184" dur="5.2s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="1072" y="164" width="22" height="84" rx="5" fill="url(#barGrad)">
+          <animate attributeName="height" values="84;104;84" dur="6.6s" repeatCount="indefinite"/>
+          <animate attributeName="y" values="164;144;164" dur="6.6s" repeatCount="indefinite"/>
+        </rect>
+
+        <path d="M936 216 L981 192 L1015 170 L1049 202 L1083 182" fill="none" stroke="#f0abfc" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.9"/>
+        <g fill="#f0abfc">
+          <circle cx="936" cy="216" r="3"/>
+          <circle cx="981" cy="192" r="3"/>
+          <circle cx="1015" cy="170" r="3"/>
+          <circle cx="1049" cy="202" r="3"/>
+          <circle cx="1083" cy="182" r="3.6">
+            <animate attributeName="r" values="3;5.2;3" dur="2.4s" repeatCount="indefinite"/>
+          </circle>
+        </g>
+      </g>
+
+      <g font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.2" fill="#64748b">
+        <text x="696" y="288">features → model → insight</text>
+        <text x="1118" y="288" text-anchor="end" fill="#22d3ee" opacity="0.8">accuracy ↑</text>
+      </g>
+    </g>
+  </g>
+</svg>
