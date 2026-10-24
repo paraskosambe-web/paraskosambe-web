@@ -1,10 +1,11 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-<!-- Animated hero (file: assets/hero.svg) -->
 <a href="https://github.com/paraskosambe-web">
-  <img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/hero.svg?v=2" width="100%" alt="Paras Kosambe - Data Science, AI / ML, Full-Stack Development, Digital Art"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,40:1e3a8a,70:4f46e5,100:22d3ee&height=240&section=header&text=Paras%20Kosambe&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20Full-Stack%20Development%20%C2%B7%20Digital%20Art&descSize=17&descAlignY=58&descAlign=50" width="100%" alt="Paras Kosambe - Data Science, AI / ML, Full-Stack Development, Digital Art"/>
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%F0%9F%93%8A+Aspiring+Data+Scientist;%F0%9F%A4%96+AI+%2F+ML+Enthusiast;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8E%A8+Graphite+%C2%B7+Charcoal+%C2%B7+Digital+Artist;%E2%9A%A1+Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve" alt="Typing animation of roles"/>
 
 <br/>
 
@@ -43,13 +44,9 @@
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <a id="about"></a>
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### Turning data into decisions, and ideas into products.
+<h3 align="center">Turning data into decisions, and ideas into products.</h3>
 
 I'm a **B.Sc. Computer Science student** building toward a career as a **Data Scientist** with strong **AI/ML and software engineering** skills. I like working across the whole pipeline: cleaning and exploring data, training predictive models, and shipping the result as a real application.
 
@@ -58,9 +55,6 @@ My workflow is simple:
 > **Learn → Build → Analyze → Improve**
 
 I'd rather understand *how* tools fit together to solve a real problem than just collect buzzwords. Outside of code, I'm a **graphite, charcoal and digital artist**, and that creative side shapes how I design clean, user-friendly products.
-
-</td>
-<td width="45%" valign="top">
 
 ```python
 class Paras:
@@ -79,21 +73,13 @@ class Paras:
                 "Real-world data problems"]
 ```
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 | 📊 **Data-Driven** | 🤖 **AI-Focused** | 💻 **Builder at Heart** |
 |:---:|:---:|:---:|
 | EDA, feature engineering and predictive modeling with the Python data stack | NLP, Generative AI and AI agents that answer questions in plain language | Full-stack apps with React, Node.js, Express, FastAPI and databases |
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/%F0%9F%94%AD%20Now%20Working%20On-AI%20Agents%20%26%20Predictive%20Modeling-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Working on"/>
 <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Now%20Learning-Statistics%20%7C%20NLP%20%7C%20GenAI%20%7C%20Cloud-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Learning"/>
@@ -103,7 +89,7 @@ class Paras:
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ FOCUS ═══════════════════════ -->
-## 🧠 What I'm Focused On
+<h2 align="center">🧠 What I'm Focused On</h2>
 
 <div align="center">
 
@@ -125,7 +111,7 @@ class Paras:
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 <a id="projects"></a>
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
@@ -219,7 +205,7 @@ flowchart LR
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 <a id="stack"></a>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -277,7 +263,7 @@ flowchart LR
 <!-- ═══════════════════════ ANALYTICS ═══════════════════════ -->
 <a id="analytics"></a>
 
-## 📈 GitHub Analytics
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -311,7 +297,7 @@ flowchart LR
 <!-- ═══════════════════════ ROADMAP ═══════════════════════ -->
 <a id="roadmap"></a>
 
-## 📚 Learning Roadmap
+<h2 align="center">📚 Learning Roadmap</h2>
 
 <div align="center">
 
@@ -350,7 +336,7 @@ Building knowledge through **AI, Machine Learning, Data Science, Cloud, and Agen
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ BEYOND CODE ═══════════════════════ -->
-## 🎨 Beyond Code
+<h2 align="center">🎨 Beyond Code</h2>
 
 Alongside technology, I'm a **digital and sketch artist** working in **graphite, charcoal, and pencil**. My creative portfolio lives at **Paras Arts**, where art and code meet.
 
@@ -361,7 +347,7 @@ Alongside technology, I'm a **digital and sketch artist** working in **graphite,
 
 </div>
 
-## 🌱 What I'm Building Toward
+<h2 align="center">🌱 What I'm Building Toward</h2>
 
 > A **Data Scientist** with strong **AI/ML and software development** skills, while continuing to grow my creative work alongside technology.
 
@@ -377,7 +363,7 @@ flowchart LR
 <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
 <a id="contact"></a>
 
-## 📫 Let's Connect
+<h2 align="center">📫 Let's Connect</h2>
 
 <div align="center">
 
@@ -398,4 +384,4 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a8a,100:0ea5e9&height=120&section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:4f46e5,100:0b1220&height=140&section=footer&reversal=true" width="100%" alt="footer wave"/>
