@@ -1,9 +1,11 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-<!-- Animated hero (file: assets/hero.svg) -->
-<a href="https://paras-kosambe.vercel.app/">
-  <img src="./assets/hero.svg?v=3" width="100%" alt="Paras Kosambe - Data Science, AI / ML, Full-Stack Development, Digital Art"/>
+<a href="https://paras-kosambe.vercel.app/" title="paras-kosambe.vercel.app">
+  <picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg?v=5">
+  <img src="./assets/hero.svg?v=5" width="100%" alt="Paras Kosambe — Data Science, AI / ML, Full-Stack Development, Digital Art">
+</picture>
 </a>
 
 <br/>
@@ -15,58 +17,36 @@
 <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-10b981?style=for-the-badge&labelColor=0f172a" alt="Open to opportunities"/>
 </p>
 
-<br/>
-
-<!-- Live one-liner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&height=44&lines=Data+Science+%7C+AI+%2F+ML+%7C+Full-Stack+Development;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve;Turning+data+into+decisions%2C+and+ideas+into+products." alt="Paras Kosambe — Data Science, AI / ML, Full-Stack Development"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&height=44&lines=Data+Science+%7C+AI+%2F+ML+%7C+Full-Stack+Development;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve;Turning+data+into+decisions%2C+and+ideas+into+products." alt="Data Science, AI / ML, Full-Stack Development"/>
 
 <br/><br/>
 
-<!-- ═══════════════════════ NAVIGATION ═══════════════════════ -->
+<!-- NAVIGATION -->
 <p>
-<a href="https://paras-kosambe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&labelColor=0f172a" alt="Portfolio"/></a>
-<a href="#about"><img src="https://img.shields.io/badge/About-0ea5e9?style=for-the-badge" alt="About"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-2563eb?style=for-the-badge" alt="Projects"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-4f46e5?style=for-the-badge" alt="Tech stack"/></a>
-<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-7c3aed?style=for-the-badge" alt="Analytics"/></a>
-<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-9333ea?style=for-the-badge" alt="Roadmap"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-0d9488?style=for-the-badge" alt="Contact"/></a>
+<a href="https://paras-kosambe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&labelColor=0f172a" alt="Portfolio"/></a>
+<a href="#about"><img src="https://img.shields.io/badge/About-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="About"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-2563eb?style=for-the-badge&labelColor=0f172a" alt="Projects"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-4f46e5?style=for-the-badge&labelColor=0f172a" alt="Tech stack"/></a>
+<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-7c3aed?style=for-the-badge&labelColor=0f172a" alt="Analytics"/></a>
+<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-9333ea?style=for-the-badge&labelColor=0f172a" alt="Roadmap"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-0d9488?style=for-the-badge&labelColor=0f172a" alt="Contact"/></a>
+</p>
+
+<!-- SOCIAL -->
+<p>
+<a href="mailto:paraskosambe@gmail.com" title="Email · paraskosambe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/paras-kosambe" title="LinkedIn · in/paras-kosambe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/paras.arts.3313/" title="Instagram · @paras.arts.3313"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a" alt="Instagram"/></a>
+<a href="https://github.com/paraskosambe-web?tab=repositories" title="Repositories"><img src="https://img.shields.io/badge/Repositories-1e293b?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="Repositories"/></a>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════ SOCIAL BUTTONS ═══════════════════════ -->
-<p>
-<a href="mailto:paraskosambe@gmail.com" title="Email me"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/paras-kosambe" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/paras.arts.3313/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-<a href="https://paras-kosambe.vercel.app/" title="Live portfolio"><img src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/></a>
-<a href="https://github.com/paraskosambe-web?tab=repositories" title="Repositories"><img src="https://img.shields.io/badge/Repositories-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-</p>
-
-<br/>
-
-<!-- Animated skills marquee (file: assets/skills-marquee.svg) -->
-<img src="./assets/skills-marquee.svg?v=2" width="100%" alt="Skills: Python, SQL, JavaScript, Pandas, NumPy, Scikit-Learn, React, Node.js, Express, FastAPI, MongoDB, Supabase and more"/>
-
-<br/><br/>
-
-<!-- ═══════════════════════ LIVE PORTFOLIO CTA ═══════════════════════ -->
-<a href="https://paras-kosambe.vercel.app/" title="Open my live portfolio">
-  <img src="./assets/cta-slim.svg" width="100%" alt="Live portfolio — paras-kosambe.vercel.app"/>
-</a>
-
-<br/><br/>
-
-<!-- Animated quick links (files: assets/btn-*.svg) -->
-<a href="https://paras-kosambe.vercel.app/" title="Live portfolio website"><img src="./assets/btn-portfolio.svg" alt="Live Portfolio"/></a>
-<a href="https://paras-kosambe.vercel.app/projects" title="All projects"><img src="./assets/btn-projects.svg" alt="All Projects"/></a>
-<a href="https://paras-kosambe.vercel.app/resume" title="View resume"><img src="./assets/btn-resume.svg" alt="View Resume"/></a>
-<a href="https://www.instagram.com/paras.arts.3313/" title="Art gallery"><img src="./assets/btn-art.svg" alt="Art Gallery"/></a>
+<img src="./assets/skills-marquee.svg?v=3" width="100%" alt="Skills: Python, SQL, JavaScript, Pandas, NumPy, Scikit-Learn, React, Node.js, Express, FastAPI, MongoDB, Supabase and more"/>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assets/divider.svg?v=2" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <a id="about"></a>
@@ -75,7 +55,7 @@
 
 <div align="center">
 
-### Turning data into decisions, and ideas into products.
+**Turning data into decisions, and ideas into products.**
 
 </div>
 
@@ -91,8 +71,7 @@ I'd rather understand *how* tools fit together to solve a real problem than just
 
 <div align="center">
 
-<!-- Animated terminal (file: assets/profile-terminal.svg) -->
-<img src="./assets/profile-terminal.svg?v=3" width="467" alt="Animated terminal: a self-typing Python REPL about Paras"/>
+<img src="./assets/profile-terminal.svg?v=5" width="467" alt="A self-typing Python REPL about Paras"/>
 
 </div>
 
@@ -133,47 +112,51 @@ class Paras:
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assets/divider.svg?v=2" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ FOCUS ═══════════════════════ -->
 <h2 align="center">🧠 What I'm Focused On</h2>
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 📊 **Data Science**<br/>Python • Pandas • NumPy<br/>Statistics • EDA<br/>Feature Engineering | 🤖 **AI & Machine Learning**<br/>ML • NLP • Generative AI<br/>AI Agents • Agentic AI<br/>Predictive Modeling |
-| 💻 **Development**<br/>React • Node.js • Express<br/>FastAPI • REST APIs<br/>Full-Stack Apps | 🗄️ **Data & Databases**<br/>SQL • MongoDB • Supabase<br/>Data Modeling |
-| ☁️ **Tools & Platforms**<br/>Git • GitHub<br/>Cloud Technologies | 🎨 **Creative Work**<br/>Sketching • Digital Art<br/>Portfolio Development |
+<table>
+<tr>
+<td align="center" width="50%">📊 <b>Data Science</b><br/><sub>Python • Pandas • NumPy<br/>Statistics • EDA<br/>Feature Engineering</sub></td>
+<td align="center" width="50%">🤖 <b>AI &amp; Machine Learning</b><br/><sub>ML • NLP • Generative AI<br/>AI Agents • Agentic AI<br/>Predictive Modeling</sub></td>
+</tr>
+<tr>
+<td align="center">💻 <b>Development</b><br/><sub>React • Node.js • Express<br/>FastAPI • REST APIs<br/>Full-Stack Apps</sub></td>
+<td align="center">🗄️ <b>Data &amp; Databases</b><br/><sub>SQL • MongoDB • Supabase<br/>Data Modeling</sub></td>
+</tr>
+<tr>
+<td align="center">☁️ <b>Tools &amp; Platforms</b><br/><sub>Git • GitHub<br/>Cloud Technologies</sub></td>
+<td align="center">🎨 <b>Creative Work</b><br/><sub>Sketching • Digital Art<br/>Portfolio Development</sub></td>
+</tr>
+</table>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assets/divider.svg?v=2" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════ PORTFOLIO WEBSITE ═══════════════════════ -->
-<h2 align="center">🌐 Live Portfolio Website</h2>
+<!-- ═══════════════════════ LIVE PORTFOLIO (single section) ═══════════════════════ -->
+<h2 align="center">🌐 Live Portfolio</h2>
 
 <div align="center">
 
-**Everything in one place →** projects, skills, experience, certifications, resume and my art gallery, all deployed live.
+Everything in one place — projects, skills, experience, certifications, resume and my art gallery, all deployed live.
 
-<a href="https://paras-kosambe.vercel.app/" title="Open my live portfolio">
-  <img src="./assets/portfolio-cta.svg?v=2" width="100%" alt="Live portfolio — paras-kosambe.vercel.app"/>
+<a href="https://paras-kosambe.vercel.app/" title="paras-kosambe.vercel.app">
+  <img src="./assets/portfolio-cta.svg?v=3" width="100%" alt="Live portfolio — paras-kosambe.vercel.app"/>
 </a>
-
-<br/><br/>
-
-<a href="https://paras-kosambe.vercel.app/" title="Live portfolio website"><img src="./assets/btn-portfolio.svg" alt="Live Portfolio"/></a>
-<a href="https://paras-kosambe.vercel.app/projects" title="All projects"><img src="./assets/btn-projects.svg" alt="All Projects"/></a>
-<a href="https://paras-kosambe.vercel.app/resume" title="View resume"><img src="./assets/btn-resume.svg" alt="View Resume"/></a>
-<a href="https://www.instagram.com/paras.arts.3313/" title="Art gallery"><img src="./assets/btn-art.svg" alt="Art Gallery"/></a>
 
 <br/>
 
-<p>
-<img src="https://img.shields.io/badge/Next.js-Deployed%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Deployed on Vercel"/>
-<img src="https://img.shields.io/badge/Status-Live-10b981?style=for-the-badge&labelColor=0f172a" alt="Live"/>
-</p>
+<a href="https://paras-kosambe.vercel.app/" title="Live portfolio website"><img src="./assets/btn-portfolio.svg?v=2" alt="Live Portfolio"/></a>
+<a href="https://paras-kosambe.vercel.app/projects" title="All projects"><img src="./assets/btn-projects.svg?v=2" alt="All Projects"/></a>
+<a href="https://paras-kosambe.vercel.app/resume" title="View resume"><img src="./assets/btn-resume.svg?v=2" alt="View Resume"/></a>
+<a href="https://www.instagram.com/paras.arts.3313/" title="Art gallery"><img src="./assets/btn-art.svg?v=2" alt="Art Gallery"/></a>
+
+<br/><br/>
 
 **Jump straight to a page**
 
@@ -189,7 +172,7 @@ class Paras:
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assets/divider.svg?v=2" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 <a id="projects"></a>
@@ -198,14 +181,11 @@ class Paras:
 
 <div align="center">
 
-<a href="https://github.com/paraskosambe-web/paras-arts-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paraskosambe-web&repo=paras-arts-website&theme=tokyonight&hide_border=true&border_radius=12" alt="Paras Arts"/>
-</a>
-<a href="https://github.com/paraskosambe-web/paras-arts-ai-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paraskosambe-web&repo=paras-arts-ai-agent&theme=tokyonight&hide_border=true&border_radius=12" alt="Paras Arts AI Data Agent"/>
-</a>
-<a href="https://github.com/paraskosambe-web/bcg-x-data-science-job-simulation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paraskosambe-web&repo=bcg-x-data-science-job-simulation&theme=tokyonight&hide_border=true&border_radius=12" alt="BCG X Data Science Job Simulation"/>
+<a href="https://github.com/paraskosambe-web?tab=repositories">
+  <picture>
+  <source media="(max-width: 600px)" srcset="./assets/repo-cards-mobile.svg?v=2">
+  <img src="./assets/repo-cards.svg?v=2" width="100%" alt="Featured repositories: paras-arts-website, paras-arts-ai-agent, InsightForge-Data-Workspace, bcg-x-data-science-job-simulation">
+</picture>
 </a>
 
 </div>
@@ -237,7 +217,7 @@ A full-stack platform to showcase artwork, manage custom sketch orders, track or
 
 <p>
 <img src="https://img.shields.io/github/last-commit/paraskosambe-web/paras-arts-website?style=for-the-badge&label=Last%20Commit&color=0ea5e9&labelColor=0f172a" alt="Last commit"/>
-<img src="https://img.shields.io/github/languages/top/paraskosambe-web/paras-arts-website?style=for-the-badge&color=2563eb&labelColor=0f172a&label=Top%20Language" alt="Top language"/>
+<img src="https://img.shields.io/badge/Top%20Language-TypeScript-3178c6?style=for-the-badge&labelColor=0f172a" alt="Top language"/>
 </p>
 
 </div>
@@ -279,7 +259,28 @@ flowchart LR
 
 <p>
 <img src="https://img.shields.io/github/last-commit/paraskosambe-web/paras-arts-ai-agent?style=for-the-badge&label=Last%20Commit&color=8b5cf6&labelColor=0f172a" alt="Last commit"/>
-<img src="https://img.shields.io/github/languages/top/paraskosambe-web/paras-arts-ai-agent?style=for-the-badge&color=7c3aed&labelColor=0f172a&label=Top%20Language" alt="Top language"/>
+<img src="https://img.shields.io/badge/Top%20Language-Python-3572A5?style=for-the-badge&labelColor=0f172a" alt="Top language"/>
+</p>
+
+</div>
+
+<br/>
+
+### 🧪 InsightForge — *Interactive Data Workspace*
+
+An interactive data workspace that helps users upload, explore, analyze, and understand datasets through a modern data-science-focused interface.
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" alt="React"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="32" alt="Vite"/>
+
+<br/><br/>
+
+<p>
+<a href="https://github.com/paraskosambe-web/InsightForge-Data-Workspace"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a" alt="View repository"/></a>
+<a href="https://paras-kosambe.vercel.app/projects/insightforge-data-workspace"><img src="https://img.shields.io/badge/View%20Project-%E2%86%97-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="View project"/></a>
 </p>
 
 </div>
@@ -321,22 +322,7 @@ flowchart LR
 
 </div>
 
-<br/>
-
-### 🧪 InsightForge — *Interactive Data Workspace* <sub>· on my portfolio</sub>
-
-An interactive data workspace that helps users upload, explore, analyze, and understand datasets through a modern data-science-focused interface.
-
-<div align="center">
-
-<p>
-<a href="https://paras-kosambe.vercel.app/projects/insightforge-data-workspace"><img src="https://img.shields.io/badge/View%20Project-%E2%86%97-22d3ee?style=for-the-badge&logo=vercel&logoColor=0f172a" alt="View project"/></a>
-<img src="https://img.shields.io/badge/React%20%C2%B7%20TypeScript%20%C2%B7%20Vite-0f172a?style=for-the-badge&labelColor=0ea5e9" alt="Stack"/>
-</p>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assets/divider.svg?v=2" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 <a id="stack"></a>
@@ -345,66 +331,12 @@ An interactive data workspace that helps users upload, explore, analyze, and und
 
 <div align="center">
 
-**🐍 Languages**
-
-<table align="center"><tr>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python"/><br/><sub><b>Python</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="SQL"/><br/><sub><b>SQL</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
-</tr></table>
-
-<table align="center"><tr>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="44" height="44" alt="Markdown"/><br/><sub><b>Markdown</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="44" height="44" alt="Bash"/><br/><sub><b>Bash</b></sub></td>
-</tr></table>
-
-**📊 Data Science & Machine Learning**
-
-<table align="center"><tr>
-<td align="center" width="86"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/ffffff"><img src="https://cdn.simpleicons.org/pandas/150458" width="44" height="44" alt="Pandas"/></picture><br/><sub><b>Pandas</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="Scikit-Learn"/><br/><sub><b>Scikit-Learn</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" height="44" alt="Gemini"/><br/><sub><b>Gemini</b></sub></td>
-</tr></table>
-
-<table align="center"><tr>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="44" height="44" alt="Matplotlib"/><br/><sub><b>Matplotlib</b></sub></td>
-<td align="center" width="86"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.svg" width="44" height="44" alt="Seaborn"/><br/><sub><b>Seaborn</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.simpleicons.org/jupyter/F3766A" width="44" height="44" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="44" height="44" alt="Hugging Face"/><br/><sub><b>HuggingFace</b></sub></td>
-</tr></table>
-
-**⚙️ Backend & Databases**
-
-<table align="center"><tr>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="44" height="44" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
-<td align="center" width="86"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"><img src="https://cdn.simpleicons.org/express/000000" width="44" height="44" alt="Express"/></picture><br/><sub><b>Express</b></sub></td>
-</tr></table>
-
-<table align="center"><tr>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="44" height="44" alt="Cloudinary"/><br/><sub><b>Cloudinary</b></sub></td>
-</tr></table>
-
-**🧰 Tools**
-
-<table align="center"><tr>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git"/><br/><sub><b>Git</b></sub></td>
-<td align="center" width="86"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><img src="https://cdn.simpleicons.org/github/181717" width="44" height="44" alt="GitHub"/></picture><br/><sub><b>GitHub</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
-<td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="44" height="44" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
-</tr></table>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/tech-stack-mobile.svg?v=1">
+  <img src="./assets/tech-stack.svg?v=1" width="100%" alt="Tech stack: Python, SQL, JavaScript, TypeScript, HTML5, CSS3; Pandas, NumPy, Scikit-Learn, Gemini, Matplotlib, Seaborn, Jupyter, HuggingFace; MongoDB, Node.js, Supabase, Express, FastAPI, React, Next.js, Cloudinary; Git, GitHub, VS Code, Postman"/>
+</picture>
 
 </div>
-
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ ANALYTICS ═══════════════════════ -->
 <a id="analytics"></a>
@@ -413,44 +345,45 @@ An interactive data workspace that helps users upload, explore, analyze, and und
 
 <div align="center">
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=paraskosambe-web&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraskosambe-web&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages"/>
-</p>
-
-<p>
-<img src="https://streak-stats.demolab.com/?user=paraskosambe-web&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
-</p>
-
-<br/>
-
-**🧾 Profile Summary**
+**📊 GitHub at a Glance**
 
 <a href="https://github.com/paraskosambe-web">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paraskosambe-web&theme=tokyonight" width="100%" alt="Profile summary"/>
+  <picture>
+  <source media="(max-width: 600px)" srcset="./assets/github-stats-mobile.svg?v=1">
+  <img src="./assets/github-stats.svg?v=1" width="100%" alt="GitHub stats: 59 contributions, 90 commits, 8 public repos, 6 stars, 2 followers, 8-day longest streak, TypeScript">
+</picture>
 </a>
 
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paraskosambe-web&theme=tokyonight" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paraskosambe-web&theme=tokyonight" alt="Most commit language"/>
-</p>
+<sub>Contributions · commits · repos · stars · streaks · top language — one card, one colour per metric.</sub>
 
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paraskosambe-web&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
-</p>
+<br/><br/>
 
-<p>
-<img src="https://img.shields.io/badge/Most%20Active-Hours%20in%20IST-7c3aed?style=for-the-badge&labelColor=0f172a" alt="Most active hours in IST"/>
-<img src="https://img.shields.io/badge/Consistency-Building%20Daily-22d3ee?style=for-the-badge&labelColor=0f172a" alt="Consistency"/>
-</p>
+**🗣️ Language Mix** <sub>(each language in its own colour)</sub>
 
-<br/>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/language-mix-mobile.svg?v=4">
+  <img src="./assets/language-mix.svg?v=4" width="100%" alt="Language mix: TypeScript 81.4%, CSS 6.8%, Python 6.5%, JavaScript 4.1%, PLpgSQL 0.7%, HTML 0.4%">
+</picture>
+
+<br/><br/>
 
 **🗓️ Contribution Calendar**
 
-<img src="https://ghchart.rshah.org/22d3ee/paraskosambe-web" width="95%" alt="Contribution calendar"/>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/contribution-calendar-mobile.svg?v=2">
+  <img src="./assets/contribution-calendar.svg?v=2" width="100%" alt="Contribution calendar for the last 12 months">
+</picture>
 
 <br/><br/>
+
+**⏰ When I Commit** <sub>(Asia/Kolkata · UTC+5:30)</sub>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/commit-hours-mobile.svg?v=2">
+  <img src="./assets/commit-hours.svg?v=2" width="100%" alt="Commits per hour of day, peak between 16:00 and 17:00 IST">
+</picture>
+
+<br/>
 
 **🐍 Contribution Snake**
 
@@ -459,6 +392,8 @@ An interactive data workspace that helps users upload, explore, analyze, and und
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake.svg"/>
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake.svg"/>
 </picture>
+
+<sub>Generated by <code>.github/workflows/snake.yml</code> → committed to the <code>output</code> branch every 12 h.</sub>
 
 <br/><br/>
 
@@ -481,7 +416,7 @@ An interactive data workspace that helps users upload, explore, analyze, and und
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assets/divider.svg?v=2" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ ROADMAP ═══════════════════════ -->
 <a id="roadmap"></a>
@@ -524,7 +459,7 @@ Building knowledge through **AI, Machine Learning, Data Science, Cloud, and Agen
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assets/divider.svg?v=2" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ BEYOND CODE ═══════════════════════ -->
 <h2 align="center">🎨 Beyond Code</h2>
@@ -536,7 +471,7 @@ Alongside technology, I'm a **digital and sketch artist** working in **graphite,
 <br/><br/>
 
 <p>
-<a href="https://www.instagram.com/paras.arts.3313/"><img src="https://img.shields.io/badge/See%20My%20Artwork-Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram artwork"/></a>
+<a href="https://www.instagram.com/paras.arts.3313/"><img src="https://img.shields.io/badge/See%20My%20Artwork-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a" alt="Instagram artwork"/></a>
 <a href="https://github.com/paraskosambe-web/paras-arts-website"><img src="https://img.shields.io/badge/Paras%20Arts-Platform-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a" alt="Paras Arts"/></a>
 <a href="https://paras-kosambe.vercel.app/"><img src="https://img.shields.io/badge/Art%20Gallery-On%20My%20Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Art gallery"/></a>
 </p>
@@ -560,7 +495,7 @@ flowchart LR
     style P fill:#7c3aed,color:#fff,stroke:none
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assets/divider.svg?v=2" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
 <a id="contact"></a>
@@ -569,30 +504,29 @@ flowchart LR
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🌐 **Portfolio** | [paras-kosambe.vercel.app](https://paras-kosambe.vercel.app/) |
-| 📧 **Email** | [paraskosambe@gmail.com](mailto:paraskosambe@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/paras-kosambe](https://www.linkedin.com/in/paras-kosambe) |
-| 🎨 **Instagram** | [@paras.arts.3313](https://www.instagram.com/paras.arts.3313/) |
-| 💻 **GitHub** | [@paraskosambe-web](https://github.com/paraskosambe-web) |
-| 📄 **Resume** | [paras-kosambe.vercel.app/resume](https://paras-kosambe.vercel.app/resume) |
+<a href="https://paras-kosambe.vercel.app/" title="paras-kosambe.vercel.app">
+  <img src="./assets/connect-card.svg?v=3" width="100%" alt="Let's connect — email, LinkedIn, Instagram, portfolio"/>
+</a>
+
+<br/>
+
+<table>
+<tr><td>📧 <b>Email</b></td><td><a href="mailto:paraskosambe@gmail.com">paraskosambe@gmail.com</a></td></tr>
+<tr><td>💼 <b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/paras-kosambe">in/paras-kosambe</a></td></tr>
+<tr><td>🎨 <b>Instagram</b></td><td><a href="https://www.instagram.com/paras.arts.3313/">@paras.arts.3313</a></td></tr>
+<tr><td>🌐 <b>Portfolio</b></td><td><a href="https://paras-kosambe.vercel.app/">paras-kosambe.vercel.app</a></td></tr>
+<tr><td>💻 <b>GitHub</b></td><td><a href="https://github.com/paraskosambe-web">@paraskosambe-web</a></td></tr>
+<tr><td>📄 <b>Resume</b></td><td><a href="https://paras-kosambe.vercel.app/resume">paras-kosambe.vercel.app<wbr/></a> <sub>/resume</sub></td></tr>
+</table>
 
 <br/>
 
 <p>
 <a href="mailto:paraskosambe@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20Hire%20Me%20%2F%20Collaborate-22d3ee?style=for-the-badge&labelColor=0f172a" alt="Hire me"/></a>
-<a href="https://paras-kosambe.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20Portfolio-paras--kosambe.vercel.app-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Visit portfolio"/></a>
+<a href="https://www.linkedin.com/in/paras-kosambe"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Connect%20on%20LinkedIn-3178c6?style=for-the-badge&labelColor=0f172a" alt="LinkedIn"/></a>
 </p>
 
 <br/>
-
-<!-- Animated connect card (file: assets/connect-card.svg) -->
-<a href="https://paras-kosambe.vercel.app/" title="Open my live portfolio">
-  <img src="./assets/connect-card.svg?v=2" width="100%" alt="Let's connect — email, LinkedIn, Instagram, portfolio and resume"/>
-</a>
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=600&height=44&lines=I'm+always+learning%2C+experimenting%2C+and+building.;Let's+turn+ideas+into+something+useful.+%F0%9F%9A%80" alt="Footer typing"/>
 
