@@ -3,7 +3,7 @@
 
 <a href="https://paras-kosambe.vercel.app/" title="paras-kosambe.vercel.app">
   <picture>
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg?v=5">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/hero-mobile.svg?v=5">
   <img src="./assets/hero.svg?v=5" width="100%" alt="Paras Kosambe — Data Science, AI / ML, Full-Stack Development, Digital Art">
 </picture>
 </a>
@@ -183,7 +183,7 @@ Everything in one place — projects, skills, experience, certifications, resume
 
 <a href="https://github.com/paraskosambe-web?tab=repositories">
   <picture>
-  <source media="(max-width: 600px)" srcset="./assets/repo-cards-mobile.svg?v=2">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/repo-cards-mobile.svg?v=2">
   <img src="./assets/repo-cards.svg?v=2" width="100%" alt="Featured repositories: paras-arts-website, paras-arts-ai-agent, InsightForge-Data-Workspace, bcg-x-data-science-job-simulation">
 </picture>
 </a>
@@ -204,7 +204,11 @@ A full-stack platform to showcase artwork, manage custom sketch orders, track or
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" alt="React"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/> 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"><img src="https://cdn.simpleicons.org/express/000000" width="32" alt="Express"/></picture> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake.svg?v=2"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake-dark.svg?v=2"/>
+</picture> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"/> 
 <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="32" alt="Cloudinary"/>
 
@@ -332,7 +336,7 @@ flowchart LR
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/tech-stack-mobile.svg?v=1">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/tech-stack-mobile.svg?v=1">
   <img src="./assets/tech-stack.svg?v=1" width="100%" alt="Tech stack: Python, SQL, JavaScript, TypeScript, HTML5, CSS3; Pandas, NumPy, Scikit-Learn, Gemini, Matplotlib, Seaborn, Jupyter, HuggingFace; MongoDB, Node.js, Supabase, Express, FastAPI, React, Next.js, Cloudinary; Git, GitHub, VS Code, Postman"/>
 </picture>
 
@@ -349,7 +353,7 @@ flowchart LR
 
 <a href="https://github.com/paraskosambe-web">
   <picture>
-  <source media="(max-width: 600px)" srcset="./assets/github-stats-mobile.svg?v=1">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/github-stats-mobile.svg?v=1">
   <img src="./assets/github-stats.svg?v=1" width="100%" alt="GitHub stats: 59 contributions, 90 commits, 8 public repos, 6 stars, 2 followers, 8-day longest streak, TypeScript">
 </picture>
 </a>
@@ -361,7 +365,7 @@ flowchart LR
 **🗣️ Language Mix** <sub>(each language in its own colour)</sub>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/language-mix-mobile.svg?v=4">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/language-mix-mobile.svg?v=4">
   <img src="./assets/language-mix.svg?v=4" width="100%" alt="Language mix: TypeScript 81.4%, CSS 6.8%, Python 6.5%, JavaScript 4.1%, PLpgSQL 0.7%, HTML 0.4%">
 </picture>
 
@@ -370,7 +374,7 @@ flowchart LR
 **🗓️ Contribution Calendar**
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/contribution-calendar-mobile.svg?v=2">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/contribution-calendar-mobile.svg?v=2">
   <img src="./assets/contribution-calendar.svg?v=2" width="100%" alt="Contribution calendar for the last 12 months">
 </picture>
 
@@ -379,7 +383,7 @@ flowchart LR
 **⏰ When I Commit** <sub>(Asia/Kolkata · UTC+5:30)</sub>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/commit-hours-mobile.svg?v=2">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/commit-hours-mobile.svg?v=2">
   <img src="./assets/commit-hours.svg?v=2" width="100%" alt="Commits per hour of day, peak between 16:00 and 17:00 IST">
 </picture>
 
