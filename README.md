@@ -1,16 +1,15 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0f172a,100:0891b2&height=240&section=header&text=Paras%20Kosambe&fontSize=64&fontColor=e0f2fe&fontAlignY=38&desc=Data%20Scientist-in-the-making%20%C2%B7%20ML%20%C2%B7%20NLP%20%C2%B7%20AI%20Agents&descSize=19&descColor=67e8f9&descAlignY=60&animation=fadeIn" width="100%" alt="Paras Kosambe"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0f172a,100:0891b2&height=200&section=header&text=Paras%20Kosambe&fontSize=46&fontColor=e0f2fe&fontAlignY=40&desc=Data%20Science%20%C2%B7%20ML%20%C2%B7%20NLP%20%C2%B7%20AI%20Agents&descSize=16&descColor=67e8f9&descAlignY=62&animation=fadeIn" width="100%" alt="Paras Kosambe"/>
 
 <a href="https://github.com/paraskosambe-web">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=820&height=50&lines=import+pandas+as+pd+%F0%9F%90%BC;df.groupby('problem').apply(find_insight)+%F0%9F%93%8A;model.fit(X_train%2C+y_train)+%F0%9F%A4%96;from+idea+import+product+%F0%9F%9A%80;print('Turning+data+into+decisions.')" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=480&height=50&lines=import+pandas+as+pd+%F0%9F%90%BC;df.groupby('problem').apply(insight);model.fit(X_train%2C+y_train)+%F0%9F%A4%96;from+idea+import+product+%F0%9F%9A%80;Turning+data+into+decisions." alt="Typing animation"/>
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=paraskosambe-web&label=Profile+Views&color=0891b2&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/paraskosambe-web?style=for-the-badge&logo=github&color=6366f1&labelColor=0f172a" alt="Followers"/>
 <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-3b82f6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0f172a" alt="B.Sc. CS"/>
 <img src="https://img.shields.io/badge/Open%20To-Data%20Science%20Internships-10b981?style=for-the-badge&labelColor=0f172a" alt="Open to internships"/>
 
@@ -26,29 +25,21 @@
 
 <br/>
 
-<!-- ═══════════════════════ NOTEBOOK INTRO ═══════════════════════ -->
-<h2 align="center">📓 <code>README.ipynb</code> — Cell [1]: Who am I?</h2>
+<!-- ═══════════════════════ INTRO ═══════════════════════ -->
+<h2 align="center">📓 Cell [1]: Who am I?</h2>
 
 ```python
-In [1]: import profile as paras
-
-In [2]: paras.describe()
-```
-
-```text
-Out[2]:
-┌──────────────────┬──────────────────────────────────────────────────────┐
-│ name             │ Paras Sunil Kosambe                                  │
-│ status           │ Final-year B.Sc. Computer Science, Univ. of Mumbai   │
-│ college          │ D.G. Ruparel College                                 │
-│ target_role      │ Data Scientist (AI/ML + software engineering)        │
-│ core_stack       │ Python · SQL · Pandas · NumPy · Scikit-Learn         │
-│ also_builds      │ Full-stack apps · AI agents · REST APIs              │
-│ off_screen       │ Graphite · charcoal · digital sketch artist          │
-│ location         │ Mumbai, India  (IST, UTC+5:30)                       │
-│ philosophy       │ Learn → Build → Analyze → Improve                    │
-│ open_to          │ Internships · Collabs · Real-world data problems     │
-└──────────────────┴──────────────────────────────────────────────────────┘
+paras = {
+  "name":    "Paras Sunil Kosambe",
+  "status":  "Final-year B.Sc. CS",
+  "college": "D.G. Ruparel College, Mumbai",
+  "role":    "Aspiring Data Scientist",
+  "stack":   "Python · SQL · Pandas · sklearn",
+  "builds":  "Full-stack apps · AI agents",
+  "art":     "Graphite · charcoal · digital",
+  "based":   "Mumbai, India (IST)",
+  "motto":   "Learn → Build → Analyze → Improve",
+}
 ```
 
 I work across the **whole pipeline**: clean and explore data, engineer features, train and evaluate models, then ship the result as a real application people can actually use. I'd rather understand *why* a model behaves the way it does than collect buzzwords. The artist in me cares about how insights are *presented*, so I put as much thought into the interface as the model.
@@ -56,16 +47,16 @@ I work across the **whole pipeline**: clean and explore data, engineer features,
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ PIPELINE ═══════════════════════ -->
-<h2 align="center">🧬 How I Work: My Data Science Pipeline</h2>
+<h2 align="center">🧬 How I Work</h2>
 
 ```mermaid
-flowchart LR
-    A["❓ Define<br/>the problem"] --> B["🧹 Clean &<br/>wrangle data"]
-    B --> C["🔍 EDA &<br/>visualise"]
-    C --> D["⚙️ Feature<br/>engineering"]
-    D --> E["🤖 Train &<br/>validate models"]
-    E --> F["📈 Evaluate &<br/>interpret"]
-    F --> G["🚀 Ship as an<br/>app / API"]
+flowchart TD
+    A["❓ Define the problem"] --> B["🧹 Clean & wrangle data"]
+    B --> C["🔍 EDA & visualise"]
+    C --> D["⚙️ Feature engineering"]
+    D --> E["🤖 Train & validate"]
+    E --> F["📈 Evaluate & interpret"]
+    F --> G["🚀 Ship as app / API"]
     F -.->|iterate| D
     style A fill:#0ea5e9,stroke:none,color:#fff
     style B fill:#0891b2,stroke:none,color:#fff
@@ -79,53 +70,58 @@ flowchart LR
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-<h2 align="center">📓 Cell [2]: <code>projects.head()</code></h2>
+<h2 align="center">🚀 Cell [2]: Projects</h2>
 
-| # | project | domain | stack | links |
-|:-:|:--------|:-------|:------|:------|
-| 0 | **📊 BCG X: PowerCo Churn Analysis** | Predictive modeling · EDA | Python · Pandas · NumPy · Scikit-Learn · Matplotlib · Seaborn | [repo](https://github.com/paraskosambe-web/bcg-x-data-science-job-simulation) |
-| 1 | **🧪 InsightForge Data Workspace** | Interactive data exploration | React · TypeScript · Vite | [repo](https://github.com/paraskosambe-web/InsightForge-Data-Workspace) |
-| 2 | **🤖 Paras Arts AI Data Agent** | Natural-language analytics (GenAI) | Python · FastAPI · MongoDB · Gemini | [repo](https://github.com/paraskosambe-web/paras-arts-ai-agent) |
-| 3 | **🎨 Paras Arts Platform** | Full-stack product | React · Node.js · MongoDB · Cloudinary | [repo](https://github.com/paraskosambe-web/paras-arts-website) |
+**📊 [BCG X: PowerCo Churn Analysis](https://github.com/paraskosambe-web/bcg-x-data-science-job-simulation)**
+EDA, feature engineering and predictive modeling · `Python` `Pandas` `Scikit-Learn`
 
-<div align="center"><sub>4 rows × 5 columns · full write-ups on my <a href="https://paras-kosambe.vercel.app/projects">portfolio</a></sub></div>
+**🧪 [InsightForge Data Workspace](https://github.com/paraskosambe-web/InsightForge-Data-Workspace)**
+Upload, explore and analyse datasets in the browser · `React` `TypeScript` `Vite`
+
+**🤖 [Paras Arts AI Data Agent](https://github.com/paraskosambe-web/paras-arts-ai-agent)**
+Ask business data questions in plain English · `Python` `FastAPI` `MongoDB` `Gemini`
+
+**🎨 [Paras Arts Platform](https://github.com/paraskosambe-web/paras-arts-website)**
+Sketch commissions with order tracking and admin dashboard · `React` `Node.js` `MongoDB`
 
 <br/>
 
 <details open>
-<summary><h3>📊 BCG X — Customer Churn Analysis for PowerCo</h3></summary>
+<summary><b>📊 BCG X — Customer Churn Analysis for PowerCo</b></summary>
+<br/>
 
 Built during the **BCG X Data Science Virtual Experience**. The task was to work out *why* customers leave an energy provider and whether a model can predict it.
 
 ```mermaid
-flowchart LR
-    A["🔍 EDA"] --> B["⚙️ Feature<br/>Engineering"] --> C["🤖 Predictive<br/>Model"] --> D["📈 Churn<br/>Insights"]
+flowchart TD
+    A["🔍 EDA"] --> B["⚙️ Feature Engineering"] --> C["🤖 Predictive Model"] --> D["📈 Churn Insights"]
     style A fill:#0ea5e9,stroke:none,color:#fff
     style B fill:#2563eb,stroke:none,color:#fff
     style C fill:#4f46e5,stroke:none,color:#fff
     style D fill:#7c3aed,stroke:none,color:#fff
 ```
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib&theme=dark" alt="stack"/>
-</p>
+
+<br/>
 
 <a href="https://github.com/paraskosambe-web/bcg-x-data-science-job-simulation"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a>
 
 </details>
 
 <details open>
-<summary><h3>🤖 Paras Arts AI Data Agent — talk to your business data</h3></summary>
+<summary><b>🤖 Paras Arts AI Data Agent: talk to your business data</b></summary>
+<br/>
 
 An AI agent that lets a business owner ask questions in **plain English** and get answers from real data. The model never touches the database freely, it only calls **controlled tools** over approved data.
 
 ```mermaid
-flowchart LR
-    Q["💬 Natural-language<br/>question"] --> A["⚡ FastAPI<br/>backend"]
+flowchart TD
+    Q["💬 Natural-language question"] --> A["⚡ FastAPI backend"]
     A --> G["🤖 Gemini"]
-    G --> T["🛠️ Controlled<br/>tools"]
-    T --> D[("🗄️ MongoDB<br/>approved data")]
-    D --> I["📊 Business<br/>insight"]
+    G --> T["🛠️ Controlled tools"]
+    T --> D[("🗄️ MongoDB: approved data")]
+    D --> I["📊 Business insight"]
     style Q fill:#0ea5e9,stroke:none,color:#fff
     style A fill:#0d9488,stroke:none,color:#fff
     style G fill:#7c3aed,stroke:none,color:#fff
@@ -134,9 +130,9 @@ flowchart LR
     style I fill:#2563eb,stroke:none,color:#fff
 ```
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb&theme=dark" alt="stack"/>
-</p>
+
+<br/>
 
 <a href="https://github.com/paraskosambe-web/paras-arts-ai-agent"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a>
 <a href="https://paras-kosambe.vercel.app/projects/paras-arts-ai-data-agent"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-a855f7?style=for-the-badge&logo=vercel&logoColor=white" alt="demo"/></a>
@@ -144,13 +140,14 @@ flowchart LR
 </details>
 
 <details>
-<summary><h3>🧪 InsightForge — interactive data workspace</h3></summary>
+<summary><b>🧪 InsightForge: interactive data workspace</b></summary>
+<br/>
 
 Upload a dataset, explore it, analyse it and understand it, all through a modern data-science-focused interface.
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,ts,vite&theme=dark" alt="stack"/>
-</p>
+
+<br/>
 
 <a href="https://github.com/paraskosambe-web/InsightForge-Data-Workspace"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a" alt="repo"/></a>
 <a href="https://paras-kosambe.vercel.app/projects/insightforge-data-workspace"><img src="https://img.shields.io/badge/View%20Project-%E2%86%97-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="project"/></a>
@@ -158,13 +155,14 @@ Upload a dataset, explore it, analyse it and understand it, all through a modern
 </details>
 
 <details>
-<summary><h3>🎨 Paras Arts — custom sketch ordering platform</h3></summary>
+<summary><b>🎨 Paras Arts: custom sketch ordering platform</b></summary>
+<br/>
 
 A full-stack platform to showcase artwork, take custom sketch orders, track order status, and manage everything from an admin dashboard. This is where my art and my engineering meet.
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="stack"/>
-</p>
+
+<br/>
 
 <a href="https://github.com/paraskosambe-web/paras-arts-website"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a" alt="repo"/></a>
 <a href="https://paras-kosambe.vercel.app/projects/paras-arts-digital-art-portfolio-custom-sketch-ordering-system"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="demo"/></a>
@@ -174,44 +172,33 @@ A full-stack platform to showcase artwork, take custom sketch orders, track orde
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ MODEL CARD ═══════════════════════ -->
-<h2 align="center">🪪 Cell [3]: Model Card: <code>Paras-v1.0</code></h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<h2 align="center">🪪 Cell [3]: Model Card — <code>Paras-v1.0</code></h2>
 
 **🎯 Intended use**
-- Data science / analytics internships
+- Data science and analytics internships
 - ML-powered product development
 - Collaborations on real-world data problems
 
 **💪 Strengths**
 - End-to-end: data → model → deployed app
-- Strong Python + SQL fundamentals
+- Strong Python and SQL fundamentals
 - Clean, user-friendly interface design
 - Learns fast, ships fast
-
-</td>
-<td width="50%" valign="top">
 
 **🔧 Known limitations (being fine-tuned)**
 - Still growing in advanced statistics
 - Limited production-scale ML experience
-- Cloud / MLOps is an active learning area
+- Cloud and MLOps are active learning areas
 
 **📏 Evaluation**
 - Job simulations: BCG X · Tata (GenAI Analytics) · British Airways
 - Projects shipped publicly on GitHub
 - Portfolio live and deployed
 
-</td>
-</tr>
-</table>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ SKILLS ═══════════════════════ -->
-<h2 align="center">🛠️ Cell [4]: <code>skills.describe()</code></h2>
+<h2 align="center">🛠️ Cell [4]: Skills</h2>
 
 <div align="center">
 
@@ -231,70 +218,57 @@ A full-stack platform to showcase artwork, take custom sketch orders, track orde
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Tools"/>
 
-<br/>
-
-<sub>Also working with: Seaborn · Hugging Face · Google Gemini · Cloudinary · Claude API</sub>
+<sub>Also working with Seaborn · Hugging Face · Google Gemini · Cloudinary · Claude API</sub>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-| 🧠 Skill area | Confidence | Level |
-|:--|:--|:--|
-| Python & Pandas | ![](https://geps.dev/progress/85?dangerouslySetInnerHTML=1) | 85% |
-| SQL | ![](https://geps.dev/progress/75?dangerouslySetInnerHTML=1) | 75% |
-| EDA & Visualisation | ![](https://geps.dev/progress/80?dangerouslySetInnerHTML=1) | 80% |
-| Machine Learning (sklearn) | ![](https://geps.dev/progress/70?dangerouslySetInnerHTML=1) | 70% |
-| Full-stack (React / Node / FastAPI) | ![](https://geps.dev/progress/80?dangerouslySetInnerHTML=1) | 80% |
-| NLP & GenAI / Agents | ![](https://geps.dev/progress/65?dangerouslySetInnerHTML=1) | 65% |
-| Statistics | ![](https://geps.dev/progress/60?dangerouslySetInnerHTML=1) | 60% |
-| Cloud & Deployment | ![](https://geps.dev/progress/45?dangerouslySetInnerHTML=1) | 45% |
+```text
+Python & Pandas    ████████░░  85%
+EDA & Visuals      ████████░░  80%
+Full-stack         ████████░░  80%
+SQL                ███████░░░  75%
+Machine Learning   ███████░░░  70%
+NLP & GenAI        ██████░░░░  65%
+Statistics         ██████░░░░  60%
+Cloud & Deploy     ████░░░░░░  45%
+```
 
 <sub>Self-assessed and kept honest. The low bars are what I'm working on next.</sub>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ TRAINING LOG ═══════════════════════ -->
-<h2 align="center">🏋️ Cell [5]: Training Log <sub>(what I'm learning right now)</sub></h2>
+<h2 align="center">🏋️ Cell [5]: Training Log</h2>
 
 ```text
-Epoch  Focus                          Status
-─────  ─────────────────────────────  ──────────────────────────
- 01    Statistics & probability       ██████████░░░░░░░░░░  in progress
- 02    Predictive modeling & metrics  ████████████░░░░░░░░  in progress
- 03    NLP & Generative AI            ████████░░░░░░░░░░░░  in progress
- 04    AI agents & tool use           ██████████████░░░░░░  in progress
- 05    Cloud & model deployment       ████░░░░░░░░░░░░░░░░  up next
+Statistics & probability   ██████░░░░
+Predictive modeling        ███████░░░
+NLP & Generative AI        █████░░░░░
+AI agents & tool use       ████████░░
+Cloud & deployment         ██░░░░░░░░
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🔭%20Now%20Working%20On-AI%20Agents%20%26%20Predictive%20Modeling-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Working on"/>
-<img src="https://img.shields.io/badge/🌱%20Now%20Learning-Statistics%20%7C%20NLP%20%7C%20GenAI%20%7C%20Cloud-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Learning"/>
+<img src="https://img.shields.io/badge/🔭%20Working%20On-AI%20Agents%20%26%20Predictive%20Modeling-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Working on"/>
+<img src="https://img.shields.io/badge/🌱%20Learning-Statistics%20%7C%20NLP%20%7C%20GenAI%20%7C%20Cloud-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Learning"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
-<h2 align="center">📈 Cell [6]: <code>github.analytics()</code></h2>
+<h2 align="center">📈 Cell [6]: GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=paraskosambe-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=6366f1&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraskosambe-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&langs_count=8" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="420" alt="Profile details"/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/profile-summary-card-output/tokyonight/3-stats.svg" width="420" alt="GitHub stats"/>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=paraskosambe-web&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee" alt="Streak"/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="420" alt="Most used languages"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paraskosambe-web&bg_color=0f172a&color=67e8f9&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true&radius=10" width="100%" alt="Contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="420" alt="Productive time"/>
 
 <br/>
 
@@ -303,12 +277,10 @@ Epoch  Focus                          Status
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=paraskosambe-web&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+<sub>Cards and snake are generated by GitHub Actions in this repo and refresh every 12 hours.</sub>
 
 </div>
 
@@ -317,7 +289,7 @@ Epoch  Focus                          Status
 <!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
 <h2 align="center">🏆 Cell [7]: Experience & Certifications</h2>
 
-**Job simulations completed:** 🔹 BCG X (Data Science) &nbsp;·&nbsp; 🔹 Tata (GenAI-Powered Data Analytics) &nbsp;·&nbsp; 🔹 British Airways
+**Job simulations completed:** BCG X (Data Science) · Tata (GenAI-Powered Data Analytics) · British Airways
 
 **Learning areas covered:** AI & Machine Learning · Generative AI · Agentic AI · NLP · Data Analytics · Cloud AI Foundations · AI Ethics · Predictive Modeling
 
@@ -326,7 +298,7 @@ Epoch  Focus                          Status
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ BEYOND CODE ═══════════════════════ -->
-<h2 align="center">🎨 Cell [8]: <code>df.plot(kind='art')</code></h2>
+<h2 align="center">🎨 Cell [8]: Beyond Code</h2>
 
 <div align="center">
 
@@ -340,15 +312,15 @@ I'm also a **graphite, charcoal and digital artist**. Sketching trained me to no
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ GOAL ═══════════════════════ -->
-<h2 align="center">🌱 Cell [9]: <code>goal.fit()</code></h2>
+<h2 align="center">🌱 Cell [9]: Goal</h2>
 
 <div align="center">
 
 > A **Data Scientist** with strong **AI/ML and software engineering** skills, building things that turn raw data into decisions.
 
 ```mermaid
-flowchart LR
-    D["📦 Data"] --> U["🧠 Understanding"] --> I["⚡ Intelligence"] --> P["🚀 Practical<br/>Solutions"]
+flowchart TD
+    D["📦 Data"] --> U["🧠 Understanding"] --> I["⚡ Intelligence"] --> P["🚀 Practical Solutions"]
     style D fill:#0ea5e9,color:#fff,stroke:none
     style U fill:#2563eb,color:#fff,stroke:none
     style I fill:#4f46e5,color:#fff,stroke:none
@@ -367,7 +339,7 @@ flowchart LR
 | 📧 **Email** | [paraskosambe@gmail.com](mailto:paraskosambe@gmail.com) |
 | 💼 **LinkedIn** | [in/paras-kosambe](https://www.linkedin.com/in/paras-kosambe) |
 | 🌐 **Portfolio** | [paras-kosambe.vercel.app](https://paras-kosambe.vercel.app/) |
-| 📄 **Resume** | [paras-kosambe.vercel.app/resume](https://paras-kosambe.vercel.app/resume) |
+| 📄 **Resume** | [/resume](https://paras-kosambe.vercel.app/resume) |
 | 🎨 **Instagram** | [@paras.arts.3313](https://www.instagram.com/paras.arts.3313/) |
 
 <br/>
@@ -377,8 +349,8 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=44&lines=I'm+always+learning%2C+experimenting%2C+and+building.;Got+a+messy+dataset%3F+Let's+talk.+%F0%9F%9A%80" alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=480&height=44&lines=Always+learning%2C+experimenting%2C+building.;Got+a+messy+dataset%3F+Let's+talk.+%F0%9F%9A%80" alt="Footer typing"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=100&section=footer" width="100%" alt="footer"/>
