@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/banner.svg" width="100%" alt="Paras Kosambe, Aspiring Data Scientist"/>
-
+ 
 <br/>
 
 <a href="https://paras-kosambe.vercel.app/projects"><img src="https://img.shields.io/badge/VIEW_MY_WORK_%E2%86%97-F5F5F5?style=flat-square&labelColor=F5F5F5" alt="View my work"/></a>
