@@ -1,356 +1,145 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0f172a,100:0891b2&height=200&section=header&text=Paras%20Kosambe&fontSize=46&fontColor=e0f2fe&fontAlignY=40&desc=Data%20Science%20%C2%B7%20ML%20%C2%B7%20NLP%20%C2%B7%20AI%20Agents&descSize=16&descColor=67e8f9&descAlignY=62&animation=fadeIn" width="100%" alt="Paras Kosambe"/>
-
-<a href="https://github.com/paraskosambe-web">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=480&height=50&lines=import+pandas+as+pd+%F0%9F%90%BC;df.groupby('problem').apply(insight);model.fit(X_train%2C+y_train)+%F0%9F%A4%96;from+idea+import+product+%F0%9F%9A%80;Turning+data+into+decisions." alt="Typing animation"/>
-</a>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/banner.svg" width="100%" alt="Paras Kosambe, Aspiring Data Scientist"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=paraskosambe-web&label=Profile+Views&color=0891b2&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-3b82f6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0f172a" alt="B.Sc. CS"/>
-<img src="https://img.shields.io/badge/Open%20To-Data%20Science%20Internships-10b981?style=for-the-badge&labelColor=0f172a" alt="Open to internships"/>
-
-<br/><br/>
-
-<a href="https://paras-kosambe.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-0d9488?style=for-the-badge&labelColor=0f172a" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/paras-kosambe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn"/></a>
-<a href="mailto:paraskosambe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/></a>
-<a href="https://paras-kosambe.vercel.app/resume"><img src="https://img.shields.io/badge/📄%20Resume-7c3aed?style=for-the-badge&labelColor=0f172a" alt="Resume"/></a>
-<a href="https://www.instagram.com/paras.arts.3313/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a" alt="Instagram"/></a>
+<a href="https://paras-kosambe.vercel.app/projects"><img src="https://img.shields.io/badge/VIEW_MY_WORK_%E2%86%97-F5F5F5?style=flat-square&labelColor=F5F5F5" alt="View my work"/></a>
+<a href="https://paras-kosambe.vercel.app/resume"><img src="https://img.shields.io/badge/VIEW_RESUME_%E2%86%97-F5F5F5?style=flat-square&labelColor=F5F5F5" alt="View resume"/></a>
+<a href="mailto:paraskosambe@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK_%E2%86%97-F5F5F5?style=flat-square&labelColor=F5F5F5" alt="Email me"/></a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ INTRO ═══════════════════════ -->
-<h2 align="center">📓 Cell [1]: Who am I?</h2>
+## 01 / ABOUT
 
-```python
-paras = {
-  "name":    "Paras Sunil Kosambe",
-  "status":  "Final-year B.Sc. CS",
-  "college": "D.G. Ruparel College, Mumbai",
-  "role":    "Aspiring Data Scientist",
-  "stack":   "Python · SQL · Pandas · sklearn",
-  "builds":  "Full-stack apps · AI agents",
-  "art":     "Graphite · charcoal · digital",
-  "based":   "Mumbai, India (IST)",
-  "motto":   "Learn → Build → Analyze → Improve",
-}
-```
+Final-year B.Sc. Computer Science student at D.G. Ruparel College, University of Mumbai, building my career towards **Data Science**.
 
-I work across the **whole pipeline**: clean and explore data, engineer features, train and evaluate models, then ship the result as a real application people can actually use. I'd rather understand *why* a model behaves the way it does than collect buzzwords. The artist in me cares about how insights are *presented*, so I put as much thought into the interface as the model.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════ PIPELINE ═══════════════════════ -->
-<h2 align="center">🧬 How I Work</h2>
-
-```mermaid
-flowchart TD
-    A["❓ Define the problem"] --> B["🧹 Clean & wrangle data"]
-    B --> C["🔍 EDA & visualise"]
-    C --> D["⚙️ Feature engineering"]
-    D --> E["🤖 Train & validate"]
-    E --> F["📈 Evaluate & interpret"]
-    F --> G["🚀 Ship as app / API"]
-    F -.->|iterate| D
-    style A fill:#0ea5e9,stroke:none,color:#fff
-    style B fill:#0891b2,stroke:none,color:#fff
-    style C fill:#2563eb,stroke:none,color:#fff
-    style D fill:#4f46e5,stroke:none,color:#fff
-    style E fill:#7c3aed,stroke:none,color:#fff
-    style F fill:#9333ea,stroke:none,color:#fff
-    style G fill:#0d9488,stroke:none,color:#fff
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-<h2 align="center">🚀 Cell [2]: Projects</h2>
-
-**📊 [BCG X: PowerCo Churn Analysis](https://github.com/paraskosambe-web/bcg-x-data-science-job-simulation)**
-EDA, feature engineering and predictive modeling · `Python` `Pandas` `Scikit-Learn`
-
-**🧪 [InsightForge Data Workspace](https://github.com/paraskosambe-web/InsightForge-Data-Workspace)**
-Upload, explore and analyse datasets in the browser · `React` `TypeScript` `Vite`
-
-**🤖 [Paras Arts AI Data Agent](https://github.com/paraskosambe-web/paras-arts-ai-agent)**
-Ask business data questions in plain English · `Python` `FastAPI` `MongoDB` `Gemini`
-
-**🎨 [Paras Arts Platform](https://github.com/paraskosambe-web/paras-arts-website)**
-Sketch commissions with order tracking and admin dashboard · `React` `Node.js` `MongoDB`
+My interests are Data Science, Data Analytics, Artificial Intelligence, Machine Learning and software development. I like working with data, building practical applications, exploring AI, and solving real-world problems. I would rather apply what I learn in a project than collect technologies I never use.
 
 <br/>
 
-<details open>
-<summary><b>📊 BCG X — Customer Churn Analysis for PowerCo</b></summary>
-<br/>
+## 02 / CURRENTLY WORKING ON
 
-Built during the **BCG X Data Science Virtual Experience**. The task was to work out *why* customers leave an energy provider and whether a model can predict it.
-
-```mermaid
-flowchart TD
-    A["🔍 EDA"] --> B["⚙️ Feature Engineering"] --> C["🤖 Predictive Model"] --> D["📈 Churn Insights"]
-    style A fill:#0ea5e9,stroke:none,color:#fff
-    style B fill:#2563eb,stroke:none,color:#fff
-    style C fill:#4f46e5,stroke:none,color:#fff
-    style D fill:#7c3aed,stroke:none,color:#fff
-```
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib&theme=dark" alt="stack"/>
+- Strengthening Python and problem-solving fundamentals
+- Learning and applying SQL, statistics, data analysis and machine learning
+- Exploring AI, Generative AI and Agentic AI
+- Building projects that combine data, AI and software engineering
+- Completing internships in AI/ML, data science and prompt engineering (see [Experience](#05--experience))
 
 <br/>
 
-<a href="https://github.com/paraskosambe-web/bcg-x-data-science-job-simulation"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a>
+## 03 / TECH STACK
 
-</details>
+**Programming Languages**<br/>
+<img src="https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-1F1F1F?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-1F1F1F?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/HTML5-1F1F1F?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
 
-<details open>
-<summary><b>🤖 Paras Arts AI Data Agent: talk to your business data</b></summary>
-<br/>
+**Data Science & Analytics**<br/>
+<img src="https://img.shields.io/badge/Pandas-1F1F1F?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-1F1F1F?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-1F1F1F?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Jupyter-1F1F1F?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
-An AI agent that lets a business owner ask questions in **plain English** and get answers from real data. The model never touches the database freely, it only calls **controlled tools** over approved data.
+**AI & Machine Learning**<br/>
+<img src="https://img.shields.io/badge/scikit--learn-1F1F1F?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Gemini_API-1F1F1F?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/> <img src="https://img.shields.io/badge/Claude_API-1F1F1F?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API"/>
 
-```mermaid
-flowchart TD
-    Q["💬 Natural-language question"] --> A["⚡ FastAPI backend"]
-    A --> G["🤖 Gemini"]
-    G --> T["🛠️ Controlled tools"]
-    T --> D[("🗄️ MongoDB: approved data")]
-    D --> I["📊 Business insight"]
-    style Q fill:#0ea5e9,stroke:none,color:#fff
-    style A fill:#0d9488,stroke:none,color:#fff
-    style G fill:#7c3aed,stroke:none,color:#fff
-    style T fill:#4f46e5,stroke:none,color:#fff
-    style D fill:#15803d,stroke:none,color:#fff
-    style I fill:#2563eb,stroke:none,color:#fff
-```
+**Databases**<br/>
+<img src="https://img.shields.io/badge/MySQL-1F1F1F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-1F1F1F?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Supabase-1F1F1F?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,mongodb&theme=dark" alt="stack"/>
+**Web Development**<br/>
+<img src="https://img.shields.io/badge/React-1F1F1F?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Next.js-1F1F1F?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Node.js-1F1F1F?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-1F1F1F?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/FastAPI-1F1F1F?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+
+**Tools & Platforms**<br/>
+<img src="https://img.shields.io/badge/Git-1F1F1F?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Postman-1F1F1F?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Vercel-1F1F1F?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Cloudinary-1F1F1F?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+
+**Currently learning:** Statistics · Excel · Power BI · NLP and Generative AI · Cloud deployment
 
 <br/>
 
-<a href="https://github.com/paraskosambe-web/paras-arts-ai-agent"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a>
-<a href="https://paras-kosambe.vercel.app/projects/paras-arts-ai-data-agent"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-a855f7?style=for-the-badge&logo=vercel&logoColor=white" alt="demo"/></a>
+## 04 / PROJECTS
 
-</details>
+| Project | What it does | Stack | Links |
+|:--|:--|:--|:--|
+| **Paras Arts AI Data Agent** | Answers business data questions in plain English, using controlled tools over approved data. Can update order status and generate charts. | Python · FastAPI · MongoDB · Gemini | [Repo](https://github.com/paraskosambe-web/paras-arts-ai-agent) · [Details](https://paras-kosambe.vercel.app/projects/paras-arts-ai-data-agent) |
+| **Paras Arts Platform** | Portfolio and custom sketch-ordering platform with order tracking and an admin dashboard. | React · Node.js · MongoDB | [Repo](https://github.com/paraskosambe-web/paras-arts-website) · [Live](https://paras-arts.vercel.app/) |
+| **InsightForge Data Workspace** | Upload, explore and analyse datasets in the browser. | React · TypeScript · Vite | [Repo](https://github.com/paraskosambe-web/InsightForge-Data-Workspace) · [Details](https://paras-kosambe.vercel.app/projects/insightforge-data-workspace) |
+| **Nova Forge** | Turning space data into solutions. Built for NASA Space Apps Challenge 2026. | Web app | [Repo](https://github.com/paraskosambe-web/NovaForge---Turning-space-data-into-solutions) · [Live](https://nova-forge-henna.vercel.app/) |
+| **PowerCo Churn Analysis** | EDA, feature engineering and a predictive model for customer churn. BCG X job simulation. | Python · Pandas · scikit-learn | [Repo](https://github.com/paraskosambe-web/bcg-x-data-science-job-simulation) |
 
-<details>
-<summary><b>🧪 InsightForge: interactive data workspace</b></summary>
-<br/>
-
-Upload a dataset, explore it, analyse it and understand it, all through a modern data-science-focused interface.
-
-<img src="https://skillicons.dev/icons?i=react,ts,vite&theme=dark" alt="stack"/>
-
-<br/>
-
-<a href="https://github.com/paraskosambe-web/InsightForge-Data-Workspace"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a" alt="repo"/></a>
-<a href="https://paras-kosambe.vercel.app/projects/insightforge-data-workspace"><img src="https://img.shields.io/badge/View%20Project-%E2%86%97-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="project"/></a>
-
-</details>
-
-<details>
-<summary><b>🎨 Paras Arts: custom sketch ordering platform</b></summary>
-<br/>
-
-A full-stack platform to showcase artwork, take custom sketch orders, track order status, and manage everything from an admin dashboard. This is where my art and my engineering meet.
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="stack"/>
+**Other job simulations:** [Tata, GenAI-Powered Data Analytics](https://github.com/paraskosambe-web/GenAI-Powered-Data-Analytics-Job-Simulation) · [British Airways, Data Science](https://github.com/paraskosambe-web/British-Airways-Data-Science-Job-Simulation)
 
 <br/>
 
-<a href="https://github.com/paraskosambe-web/paras-arts-website"><img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a" alt="repo"/></a>
-<a href="https://paras-kosambe.vercel.app/projects/paras-arts-digital-art-portfolio-custom-sketch-ordering-system"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="demo"/></a>
+## 05 / EXPERIENCE
 
-</details>
+All roles below are remote internships or programmes, not full-time employment.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+| Organisation | Role | Period | Notes |
+|:--|:--|:--|:--|
+| **UptoSkills** | AI & ML Intern | Nov 2026 to Feb 2027 | Part-time remote internship |
+| **CodeAlpha** | Data Science Intern | Nov 2026 | Virtual, task-based internship |
+| **IBM SkillsBuild** (with Edunet Foundation, AICTE) | Intern, AI and IBM Bob | Nov to Dec 2026 | Mentor sessions, IBM SkillsBuild courses and a final project presentation |
+| **NEXLEVR** | Prompt Engineering Intern | Nov to Dec 2026 | Self-paced, task-based internship |
+| **Google Student Ambassador Program** | Student Ambassador | 2026 | Student programme |
 
-<!-- ═══════════════════════ MODEL CARD ═══════════════════════ -->
-<h2 align="center">🪪 Cell [3]: Model Card — <code>Paras-v1.0</code></h2>
+Job simulations: BCG X · Tata (GenAI Analytics) · British Airways. Credentials are on my [portfolio](https://paras-kosambe.vercel.app/certifications).
 
-**🎯 Intended use**
-- Data science and analytics internships
-- ML-powered product development
-- Collaborations on real-world data problems
+<br/>
 
-**💪 Strengths**
-- End-to-end: data → model → deployed app
-- Strong Python and SQL fundamentals
-- Clean, user-friendly interface design
-- Learns fast, ships fast
+## 06 / BEYOND CODE: PARAS ARTS
 
-**🔧 Known limitations (being fine-tuned)**
-- Still growing in advanced statistics
-- Limited production-scale ML experience
-- Cloud and MLOps are active learning areas
+I run [Paras Arts](https://paras-arts.vercel.app/), an independent digital art initiative with a portfolio site and a custom sketch-ordering platform. Work and process are shared on [Instagram](https://www.instagram.com/paras.arts.3313/).
 
-**📏 Evaluation**
-- Job simulations: BCG X · Tata (GenAI Analytics) · British Airways
-- Projects shipped publicly on GitHub
-- Portfolio live and deployed
+**What running it involves**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+- Creating and managing artwork, and maintaining the digital portfolio
+- Handling enquiries and custom orders, and understanding what each customer wants
+- Managing the order workflow through to delivery
+- Building and maintaining the website and its admin dashboard
+- Handling the business side of an independent creative practice
 
-<!-- ═══════════════════════ SKILLS ═══════════════════════ -->
-<h2 align="center">🛠️ Cell [4]: Skills</h2>
+**How it relates to my computer science work**
+
+| Paras Arts | Applied in software and data work |
+|:--|:--|
+| Talking to customers and clarifying requirements | Gathering requirements and turning them into technical solutions |
+| Owning orders end to end | Project ownership, deadlines and independent decisions |
+| Running the shop with real customers | Building for real users, not only for demos |
+| Order data and customer requests | Data for the [AI Data Agent](https://github.com/paraskosambe-web/paras-arts-ai-agent), built to answer questions about the business |
+
+<br/>
+
+## 07 / GITHUB ANALYTICS
 
 <div align="center">
-
-**📊 Data Science & ML**
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,jupyter&theme=dark" alt="DS"/>
-
-**💻 Languages & Databases**
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,mysql,mongodb,supabase&theme=dark" alt="Languages"/>
-
-**🌐 Full-Stack & APIs**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css&theme=dark" alt="Full stack"/>
-
-**🧰 Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Tools"/>
-
-<sub>Also working with Seaborn · Hugging Face · Google Gemini · Cloudinary · Claude API</sub>
-
-</div>
-
-```text
-Python & Pandas    ████████░░  85%
-EDA & Visuals      ████████░░  80%
-Full-stack         ████████░░  80%
-SQL                ███████░░░  75%
-Machine Learning   ███████░░░  70%
-NLP & GenAI        ██████░░░░  65%
-Statistics         ██████░░░░  60%
-Cloud & Deploy     ████░░░░░░  45%
-```
-
-<sub>Self-assessed and kept honest. The low bars are what I'm working on next.</sub>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════ TRAINING LOG ═══════════════════════ -->
-<h2 align="center">🏋️ Cell [5]: Training Log</h2>
-
-```text
-Statistics & probability   ██████░░░░
-Predictive modeling        ███████░░░
-NLP & Generative AI        █████░░░░░
-AI agents & tool use       ████████░░
-Cloud & deployment         ██░░░░░░░░
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🔭%20Working%20On-AI%20Agents%20%26%20Predictive%20Modeling-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Working on"/>
-<img src="https://img.shields.io/badge/🌱%20Learning-Statistics%20%7C%20NLP%20%7C%20GenAI%20%7C%20Cloud-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Learning"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
-<h2 align="center">📈 Cell [6]: GitHub Analytics</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="420" alt="Profile details"/>
-
-<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/profile-summary-card-output/tokyonight/3-stats.svg" width="420" alt="GitHub stats"/>
-
-<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="420" alt="Most used languages"/>
-
-<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="420" alt="Productive time"/>
-
-<br/>
-
-**🐍 Contribution Snake**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake.svg"/>
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-<sub>Cards and snake are generated by GitHub Actions in this repo and refresh every 12 hours.</sub>
+<br/>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
-<h2 align="center">🏆 Cell [7]: Experience & Certifications</h2>
-
-**Job simulations completed:** BCG X (Data Science) · Tata (GenAI-Powered Data Analytics) · British Airways
-
-**Learning areas covered:** AI & Machine Learning · Generative AI · Agentic AI · NLP · Data Analytics · Cloud AI Foundations · AI Ethics · Predictive Modeling
-
-📜 Verified credentials live on my [portfolio certifications page](https://paras-kosambe.vercel.app/certifications).
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════ BEYOND CODE ═══════════════════════ -->
-<h2 align="center">🎨 Cell [8]: Beyond Code</h2>
-
-<div align="center">
-
-I'm also a **graphite, charcoal and digital artist**. Sketching trained me to notice small details, and that habit carries straight into spotting patterns in messy data and designing interfaces people enjoy using.
-
-<a href="https://www.instagram.com/paras.arts.3313/"><img src="https://img.shields.io/badge/See%20My%20Artwork-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a" alt="Instagram"/></a>
-<a href="https://paras-kosambe.vercel.app/"><img src="https://img.shields.io/badge/Art%20Gallery-On%20My%20Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Gallery"/></a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════ GOAL ═══════════════════════ -->
-<h2 align="center">🌱 Cell [9]: Goal</h2>
-
-<div align="center">
-
-> A **Data Scientist** with strong **AI/ML and software engineering** skills, building things that turn raw data into decisions.
-
-```mermaid
-flowchart TD
-    D["📦 Data"] --> U["🧠 Understanding"] --> I["⚡ Intelligence"] --> P["🚀 Practical Solutions"]
-    style D fill:#0ea5e9,color:#fff,stroke:none
-    style U fill:#2563eb,color:#fff,stroke:none
-    style I fill:#4f46e5,color:#fff,stroke:none
-    style P fill:#7c3aed,color:#fff,stroke:none
-```
-
-</div>
-
-<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
-<h2 align="center">📫 Let's Connect</h2>
-
-<div align="center">
-
-| | |
-|:--|:--|
-| 📧 **Email** | [paraskosambe@gmail.com](mailto:paraskosambe@gmail.com) |
-| 💼 **LinkedIn** | [in/paras-kosambe](https://www.linkedin.com/in/paras-kosambe) |
-| 🌐 **Portfolio** | [paras-kosambe.vercel.app](https://paras-kosambe.vercel.app/) |
-| 📄 **Resume** | [/resume](https://paras-kosambe.vercel.app/resume) |
-| 🎨 **Instagram** | [@paras.arts.3313](https://www.instagram.com/paras.arts.3313/) |
+<img src="https://streak-stats.demolab.com/?user=paraskosambe-web&theme=dark&hide_border=true&background=0A0A0A&ring=F5F5F5&fire=F5F5F5&currStreakNum=F5F5F5&currStreakLabel=F5F5F5&sideNums=F5F5F5&sideLabels=8C8C8C&dates=6B6B6B&stroke=262626" alt="Contribution streak" width="100%"/>
 
 <br/>
 
-<a href="mailto:paraskosambe@gmail.com"><img src="https://img.shields.io/badge/📩%20Hire%20Me%20%2F%20Collaborate-22d3ee?style=for-the-badge&labelColor=0f172a" alt="Hire me"/></a>
-<a href="https://www.linkedin.com/in/paras-kosambe"><img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-3178c6?style=for-the-badge&labelColor=0f172a" alt="LinkedIn"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=paraskosambe-web&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F5F5F5&text_color=A3A3A3&icon_color=F5F5F5&ring_color=F5F5F5&include_all_commits=true" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraskosambe-web&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F5F5F5&text_color=A3A3A3&langs_count=6" alt="Most used languages" height="170"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=480&height=44&lines=Always+learning%2C+experimenting%2C+building.;Got+a+messy+dataset%3F+Let's+talk.+%F0%9F%9A%80" alt="Footer typing"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paraskosambe-web&bg_color=0A0A0A&color=A3A3A3&line=E5E5E5&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&title_color=F5F5F5" alt="Contribution activity graph" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=100&section=footer" width="100%" alt="footer"/>
+<br/>
+
+## 08 / CONTACT
+
+| | |
+|:--|:--|
+| **Portfolio** | [paras-kosambe.vercel.app](https://paras-kosambe.vercel.app/) |
+| **GitHub** | [paraskosambe-web](https://github.com/paraskosambe-web) |
+| **LinkedIn** | [in/paras-kosambe](https://www.linkedin.com/in/paras-kosambe) |
+| **Email** | [paraskosambe@gmail.com](mailto:paraskosambe@gmail.com) |
+| **Paras Arts** | [paras-arts.vercel.app](https://paras-arts.vercel.app/) |
+| **Instagram** | [@paras.arts.3313](https://www.instagram.com/paras.arts.3313/) |
