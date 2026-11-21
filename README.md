@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/banner.svg" width="100%" alt="Paras Kosambe, Aspiring Data Scientist"/>
+<img src="Screenshot 2026-11-21 115810.png" width="100%" alt="Paras Kosambe" width="100%" alt="Paras Kosambe, Aspiring Data Scientist"/>
  
 <br/>
 
