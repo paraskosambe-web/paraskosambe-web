@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="Screenshot 2026-11-21 120634.png" width="100%" alt="Paras Kosambe" width="100%" alt="Paras Kosambe, Aspiring Data Scientist"/>
- 
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/hero.svg" width="100%" alt="Paras Kosambe, Aspiring Data Scientist"/>
+
+<a href="https://paras-kosambe.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=D4D4D4&background=00000000&center=true&vCenter=true&width=720&height=44&lines=I+build+data-driven+systems%2C+intelligent+applications%2C;and+scalable+digital+experiences.;Python+%C2%B7+SQL+%C2%B7+Machine+Learning+%C2%B7+AI+Agents;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve" alt="Typing animation"/></a>
+
 <br/>
 
 <a href="https://paras-kosambe.vercel.app/projects"><img src="https://img.shields.io/badge/VIEW_MY_WORK_%E2%86%97-F5F5F5?style=flat-square&labelColor=F5F5F5" alt="View my work"/></a>
@@ -10,27 +12,24 @@
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/sections/01-about.svg" width="100%" alt="01 / ABOUT"/>
 
-## 01 / ABOUT
 
 Final-year B.Sc. Computer Science student at D.G. Ruparel College, University of Mumbai, building my career towards **Data Science**.
 
 My interests are Data Science, Data Analytics, Artificial Intelligence, Machine Learning and software development. I like working with data, building practical applications, exploring AI, and solving real-world problems. I would rather apply what I learn in a project than collect technologies I never use.
 
-<br/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/sections/02-working-on.svg" width="100%" alt="02 / CURRENTLY WORKING ON"/>
 
-## 02 / CURRENTLY WORKING ON
 
 - Strengthening Python and problem-solving fundamentals
 - Learning and applying SQL, statistics, data analysis and machine learning
 - Exploring AI, Generative AI and Agentic AI
 - Building projects that combine data, AI and software engineering
-- Completing internships in AI/ML, data science and prompt engineering (see [Experience](#05--experience))
+- Completing internships in AI/ML, data science and prompt engineering (see Experience below)
 
-<br/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/sections/03-tech-stack.svg" width="100%" alt="03 / TECH STACK"/>
 
-## 03 / TECH STACK
 
 **Programming Languages**<br/>
 <img src="https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-1F1F1F?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-1F1F1F?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/HTML5-1F1F1F?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -52,9 +51,8 @@ My interests are Data Science, Data Analytics, Artificial Intelligence, Machine 
 
 **Currently learning:** Statistics · Excel · Power BI · NLP and Generative AI · Cloud deployment
 
-<br/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/sections/04-projects.svg" width="100%" alt="04 / PROJECTS"/>
 
-## 04 / PROJECTS
 
 | Project | What it does | Stack | Links |
 |:--|:--|:--|:--|
@@ -66,9 +64,8 @@ My interests are Data Science, Data Analytics, Artificial Intelligence, Machine 
 
 **Other job simulations:** [Tata, GenAI-Powered Data Analytics](https://github.com/paraskosambe-web/GenAI-Powered-Data-Analytics-Job-Simulation) · [British Airways, Data Science](https://github.com/paraskosambe-web/British-Airways-Data-Science-Job-Simulation)
 
-<br/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/sections/05-experience.svg" width="100%" alt="05 / EXPERIENCE"/>
 
-## 05 / EXPERIENCE
 
 All roles below are remote internships or programmes, not full-time employment.
 
@@ -82,9 +79,8 @@ All roles below are remote internships or programmes, not full-time employment.
 
 Job simulations: BCG X · Tata (GenAI Analytics) · British Airways. Credentials are on my [portfolio](https://paras-kosambe.vercel.app/certifications).
 
-<br/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/sections/06-paras-arts.svg" width="100%" alt="06 / BEYOND CODE: PARAS ARTS"/>
 
-## 06 / BEYOND CODE: PARAS ARTS
 
 I run [Paras Arts](https://paras-arts.vercel.app/), an independent digital art initiative with a portfolio site and a custom sketch-ordering platform. Work and process are shared on [Instagram](https://www.instagram.com/paras.arts.3313/).
 
@@ -105,9 +101,8 @@ I run [Paras Arts](https://paras-arts.vercel.app/), an independent digital art i
 | Running the shop with real customers | Building for real users, not only for demos |
 | Order data and customer requests | Data for the [AI Data Agent](https://github.com/paraskosambe-web/paras-arts-ai-agent), built to answer questions about the business |
 
-<br/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/sections/07-analytics.svg" width="100%" alt="07 / GITHUB ANALYTICS"/>
 
-## 07 / GITHUB ANALYTICS
 
 <div align="center">
 
@@ -131,9 +126,8 @@ I run [Paras Arts](https://paras-arts.vercel.app/), an independent digital art i
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/paraskosambe-web/paraskosambe-web/main/assets/sections/08-contact.svg" width="100%" alt="08 / CONTACT"/>
 
-## 08 / CONTACT
 
 | | |
 |:--|:--|
