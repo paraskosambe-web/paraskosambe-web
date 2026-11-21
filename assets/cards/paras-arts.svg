@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" role="img">
+<style>
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes shim{0%{transform:translateX(-260px)}100%{transform:translateX(1160px)}}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+@keyframes ring{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+@keyframes draw{0%{stroke-dashoffset:1}40%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:-1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}}
+.a{animation:rise .8s ease-out both}
+.sh{animation:shim 5s linear infinite}
+.pl{animation:pulse 2.4s ease-in-out infinite}
+.rg{transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
+.dr{stroke-dasharray:1;animation:draw 6s ease-in-out infinite}
+.bl{animation:blink 1s steps(1) infinite}
+.nd{animation:nudge 1.6s ease-in-out infinite}
+.m{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace} .s{font-family:Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif}
+</style>
+<defs>
+<pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#141414"/></pattern>
+<linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".7"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="fg" x1="0" x2="1"><stop offset="0" stop-color="#000"/><stop offset=".08" stop-color="#fff"/><stop offset=".92" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+
+</defs>
+<rect width="900" height="340" fill="#0A0A0A"/><rect width="900" height="340" fill="url(#g)"/>
+<rect x=".5" y=".5" width="899" height="339" fill="none" stroke="#1F1F1F"/>
+<rect class="sh" x="0" y="0" width="260" height="1.5" fill="url(#sg)"/>
+<text class="m" x="32" y="40" font-size="11" letter-spacing="3" fill="#6B6B6B">WHAT I DO</text><text class="m" x="500" y="40" font-size="11" letter-spacing="3" fill="#6B6B6B">WHAT IT BUILDS FOR CS</text><path d="M444 20V324" stroke="#1F1F1F"/><g class="a" style="animation-delay:0.20s"><text class="s" x="32" y="76" font-size="16" font-weight="600" fill="#F5F5F5">Creating artwork, managing the portfolio</text><path d="M32 90H410" stroke="#1A1A1A"/><text class="m nd" x="418" y="76" font-size="15" fill="#8C8C8C">→</text><text class="s" x="500" y="76" font-size="16" fill="#A3A3A3">Turning requirements into technical solutions</text><path d="M500 90H868" stroke="#1A1A1A"/></g><g class="a" style="animation-delay:0.40s"><text class="s" x="32" y="120" font-size="16" font-weight="600" fill="#F5F5F5">Handling enquiries and custom orders</text><path d="M32 134H410" stroke="#1A1A1A"/><text class="m nd" x="418" y="120" font-size="15" fill="#8C8C8C">→</text><text class="s" x="500" y="120" font-size="16" fill="#A3A3A3">Ownership, deadlines, independent decisions</text><path d="M500 134H868" stroke="#1A1A1A"/></g><g class="a" style="animation-delay:0.60s"><text class="s" x="32" y="164" font-size="16" font-weight="600" fill="#F5F5F5">Understanding what each customer wants</text><path d="M32 178H410" stroke="#1A1A1A"/><text class="m nd" x="418" y="164" font-size="15" fill="#8C8C8C">→</text><text class="s" x="500" y="164" font-size="16" fill="#A3A3A3">Building for real users, not only demos</text><path d="M500 178H868" stroke="#1A1A1A"/></g><g class="a" style="animation-delay:0.80s"><text class="s" x="32" y="208" font-size="16" font-weight="600" fill="#F5F5F5">Managing the order workflow to delivery</text><path d="M32 222H410" stroke="#1A1A1A"/><text class="m nd" x="418" y="208" font-size="15" fill="#8C8C8C">→</text><text class="s" x="500" y="208" font-size="16" fill="#A3A3A3">Explaining work to non-technical people</text><path d="M500 222H868" stroke="#1A1A1A"/></g><g class="a" style="animation-delay:1.00s"><text class="s" x="32" y="252" font-size="16" font-weight="600" fill="#F5F5F5">Building and running the website</text><path d="M32 266H410" stroke="#1A1A1A"/><text class="m nd" x="418" y="252" font-size="15" fill="#8C8C8C">→</text><text class="s" x="500" y="252" font-size="16" fill="#A3A3A3">Real business data for the AI Data Agent</text><path d="M500 266H868" stroke="#1A1A1A"/></g><g class="a" style="animation-delay:1.20s"><text class="s" x="32" y="296" font-size="16" font-weight="600" fill="#F5F5F5">Handling the business side</text><path d="M32 310H410" stroke="#1A1A1A"/><text class="m nd" x="418" y="296" font-size="15" fill="#8C8C8C">→</text><text class="s" x="500" y="296" font-size="16" fill="#A3A3A3">Combining creativity with technology</text><path d="M500 310H868" stroke="#1A1A1A"/></g>
+</svg>
